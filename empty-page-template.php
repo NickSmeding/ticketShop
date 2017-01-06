@@ -14,7 +14,7 @@
         <!-- START - content/body -->
         <div class="main-content">
             <div class="container">
-            <p>payment confirmation</p>
+            <p>this page is empty</p>
             </div>
         </div>
         <!-- END - content/body -->
