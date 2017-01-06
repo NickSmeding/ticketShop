@@ -1,0 +1,259 @@
+/*    [Table of contents]   */
+/*--------------------------/*
+Tempale name : Xshop
+Version    : 1.0.0
+Author     : kutethemes
+Last change: 10/10/2016    */
+/*-------------------------/*
+[Table of contents]
+[Color codes]
+    Background: #ffffff
+    Body Color : #888888
+    Accent color: #df5c53
+[Typography]
+    Body:       16px/30px "Arimo",sans-serif;
+    Heading:    "Arimo",sans-serif
+    Input, textarea: 16px/30px "Arimo",sans-serif;
+
+[Component module]
+
+    COMMON STYLES
+    HEADER
+    MAIN
+    BLOGS
+    PRODUCT STYLE
+    FOOTER
+    REPONSIVE
+/*------------------------/**/
+
+
+/*-------------------------*/
+/*      COMMON STYLES     */
+/*------------------------*/
+@import "params";
+body {
+  font-family: $font_body;
+  font-size: 16px;
+  line-height: 30px;
+  color: $body_color;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font_title;
+}
+
+h1 {
+  font-size: 45px;
+
+  @include tablet {
+    font-size: 40px;
+  }
+
+  @include desktop {
+    font-size: 60px;
+  }
+}
+h2 {
+  font-size: 22px;
+
+  @include tablet {
+    font-size: 24px;
+  }
+
+  @include desktop {
+    font-size: 30px;
+  }
+}
+
+h3 {
+  font-size: 20px;
+
+  @include tablet {
+    font-size: 22px;
+  }
+
+  @include desktop {
+    font-size: 24px;
+  }
+}
+h4 {
+  font-size: 18px;
+
+  @include tablet {
+    font-size: 20px;
+  }
+
+  @include desktop {
+    font-size: 22px;
+  }
+}
+h5 {
+  font-size: 16px;
+
+  @include tablet {
+    font-size: 18px;
+  }
+
+  @include desktop {
+    font-size: 18px;
+  }
+}
+h6 {
+  font-size: 14px;
+
+  @include tablet {
+    font-size: 15px;
+  }
+
+  @include desktop {
+    font-size: 15px;
+  }
+}
+
+img {
+  max-width: 100%;
+}
+a {
+  color: #888888;
+  -webkit-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+  text-decoration: none;
+}
+
+a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: $base_color;
+  outline: none;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+ul, ol {
+  margin: 0;
+  padding: 0;
+}
+
+ul ul, ol ol, ul ol, ol ul {
+  padding-left: 30px
+}
+
+blockquote {
+  background-color: rgba(0, 0, 0, 0);
+  border-width: 0;
+  color: #333333;
+  font-family: Arimo;
+  font-size: 17px;
+  font-style: normal;
+  line-height: 30px;
+  padding: 50px 80px 45px 94px;
+}
+
+input[type="text"], input[type="email"], textarea, input[type="password"], input[type="tel"], select {
+  border: 1px solid #e5e5e5;
+  border-radius: 0 !important;
+  font-size: 13px;
+  line-height: 46px;
+  padding: 0 25px;
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus,
+input[type="submit"]:focus,
+input[type="search"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus,
+input[type="tel"]:focus,
+textarea:focus,
+a:focus,
+button:focus,
+select:focus {
+  outline: none;
+}
+
+::-webkit-input-placeholder {
+  color: inherit;
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+:-moz-placeholder { /* Firefox 18- */
+  color: inherit;
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+::-moz-placeholder { /* Firefox 19+ */
+  color: inherit;
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+:-ms-input-placeholder {
+  color: inherit;
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+
+.zoom, .imagezoom {
+  cursor: zoom-in;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+table, th, td {
+  border: 1px solid #ececec;
+}
+
+th, td {
+  padding: 10px;
+}
+div#slvj-window {
+  z-index: 40;
+}
+
+/* -------------------- */
+/*  	  HEADER        */
+/* -------------------- */
+@import "header";
+
+
+/* -------------------- */
+/*  	   MAIN         */
+/* -------------------- */
+@import "main";
+@import "banner-slide";
+@import "shotcode";
+@import "padding-section";
+
+
+/* -------------------- */
+/*  	   Blog         */
+/* -------------------- */
+@import "blog";
+
+
+/* -------------------- */
+/*   Product Style      */
+/* -------------------- */
+@import "product-style";
+
+
+/* -------------------- */
+/*  	  FOOTER        */
+/* -------------------- */
+@import "footer";
+
+
+/* -------------------- */
+/*  	RESPONSIVE      */
+/* -------------------- */
+@import "responsive";
