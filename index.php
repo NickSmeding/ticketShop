@@ -1,5 +1,5 @@
 <!-- the header untill the main nav -->
-<?php include 'header-top.php'; ?>
+<?php include 'inc/header-top.php'; ?>
 <!-- end the header untill the main nav -->
 <!-- Main Nav Menu -->
 <nav id="primary-navigation" class="site-navigation nav-show">
@@ -17,7 +17,7 @@
 </nav>
 <!-- End Main Nav Menu -->
 <!-- Rest of the header -->
-<?php include 'header.php'; ?>
+<?php include 'inc/header.php'; ?>
 <!-- end Rest of the header -->
 <!-- Header Banner -->
 <div class="header-banner banner-slide">
@@ -57,7 +57,8 @@
 <!-- End Header Banner -->
 </header>
     <div class="main-content main-content-box">
-        <section class="padding-top75 padding-bottom60">
+
+        <section class="padding-top75">
             <div classs="row">
                 <div class="col-sm-6 nopadding-right">
                     <!-- Sevice Box -->
@@ -101,93 +102,58 @@
                     </div>
                     <!-- End Sevice Box -->
                 </div>
-                    <!-- End Product Signle Item -->
-                </div>
-            </div>
+                  <!-- End Product Signle Item -->
+              </div>
         </section>
-        <section class="padding-bottom60 padding-top60">
+        <section>
             <div class="row">
                 <div class="col-sm-6 nopadding-right" style="padding-right:0;">
-                    <!-- Product Signle Item -->
-                    <div class="product-signle-item">
-                        <div class="product-media">
-                            <div class="product-images-wrap">
-                                <figure class="product-first-figure">
-                                    <a href="#">
-                                        <img alt="img" src="assets/images/img5-h4.jpg">
-                                    </a>
-                                </figure>
-                            </div>
-                        </div>
-                        <div class="product-info">
-                            <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                            <span class="price">$75.00</span>
-                        </div>
-                    </div>
+                  <!-- Sevice Box -->
+                  <div class="sevice-box-wrap sevice-style_1">
+                      <figure><img src="assets/images/img4-h4.jpg" alt=""></figure>
+                      <div class="sevice-box-content">
+                          <h2 class="sevice-title"><img src="assets/images/body-worlds-logo.jpg" /></h2>
+                          <div class="sevide-desc">De zoektocht naar geluk en liefde domineert onze levens, maar wat bepaalt of we gelukkig zijn? Het anatomisch museum BODY WORLDS: The Happiness Project in hartje Amsterdam neemt bezoekers mee op een wonderbaarlijke reis door het menselijk lichaam, op zoek naar wat ons gelukkig maakt en wat het effect hiervan is op onze gezondheid.</div>
+                          <a href="shop.html" class="sevice-button">Get Your Ticket</a>
+                      </div>
+                  </div>
+                  <!-- End Sevice Box -->
+                </div>
+                <div class="col-sm-6 nopadding-left">
+                  <div class="img-signle">
+                      <figure>
+                          <img src="assets/images/body-worlds-enter.png" alt="">
+                      </figure>
+                  </div>
+                </div>
                     <!-- End Product Signle Item -->
                 </div>
-                <div class="col-sm-6 nopadding-left" style="padding-left: 0;">
+        </section>
+        <section>
+            <div class="row">
+                <div class="col-sm-6 nopadding-right" style="padding-right:0;">
+                    <div class="img-signle">
+                        <figure>
+                            <img src="assets/images/van-gogh-enter.png" alt="">
+                        </figure>
+                    </div>
+                </div>
+                <div class="col-sm-6 nopadding-left">
                     <!-- Sevice Box -->
                     <div class="sevice-box-wrap sevice-style_1">
-                        <figure><img src="assets/images/img6-h4.jpg" alt=""></figure>
+                        <figure><img src="assets/images/img4-h4.jpg" alt=""></figure>
                         <div class="sevice-box-content">
-                            <h2 class="sevice-title">Toni & Guy Men Styling</h2>
-                            <div class="sevide-desc">
-                                Inspiration can come from anywhere; in this instance a jacket gifted to us by a close friend caught our imagination. Not only was it a badass jacket but it wasused as a prop on set of the Brad Pitt film, Fury. This fuelled an entire military themed collection with a huge array...
-                            </div>
-                            <a href="shop.html" class="sevice-button">read more</a>
+                            <h2 class="sevice-title"><img width="180px" src="assets/images/logo-vangogh-logo.png" /></h2>
+                            <div class="sevide-desc">Vincent van Gogh (1853–1890) is one of the Netherlands’ most famous artists. Read his biography, discover the stories about his life and work, and explore his paintings and drawings in the museum's collection.</div>
+                            <a href="shop.html" class="sevice-button">Get Your Ticket</a>
                         </div>
                     </div>
                     <!-- End Sevice Box -->
                 </div>
-            </div>
-        </section>
-        <section>
-            <div class="row">
-                <div class="col-sm-6 nopadding-right" style="padding-right:0;" >
-                    <div class="img-signle">
-                        <figure>
-                            <img src="assets/images/img8-h4.jpg" alt="">
-                        </figure>
-                    </div>
-                </div>
-                <div class="col-sm-6 nopadding-left" style="padding-left: 0;">
-                    <!-- Product Signle Item -->
-                    <div class="product-signle-item">
-                        <div class="product-media">
-                            <div class="product-images-wrap">
-                                <figure class="product-first-figure">
-                                    <a href="#">
-                                        <img alt="img" src="assets/images/img7-h4.jpg">
-                                    </a>
-                                </figure>
-                            </div>
-                        </div>
-                        <div class="product-info">
-                            <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                            <span class="price">$75.00</span>
-                        </div>
-                    </div>
-                    <!-- End Product Signle Item -->
-                </div>
-            </div>
+                  <!-- End Product Signle Item -->
+              </div>
         </section>
     </div>
-    <?php include 'footer.php'; ?>
-
-    <script type='text/javascript' src='assets/js/jquery.min.js'></script>
-    <script type='text/javascript' src='assets/js/owl.carousel.min.js'></script>
-    <script type='text/javascript' src='assets/js/bootstrap.min.js'></script>
-    <script type='text/javascript' src='assets/js/slick.js'></script>
-    <script type='text/javascript' src='assets/js/wow.min.js'></script>
-    <script type='text/javascript' src='assets/js/jquery.mmenu.all.min.js'></script>
-    <script type='text/javascript' src='assets/js/lightbox.min.js'></script>
-    <script type='text/javascript' src='assets/js/jquery.scrollbar.js'></script>
-    <script type='text/javascript' src='assets/js/chosen.jquery.min.js'></script>
-    <script type='text/javascript' src='assets/js/jquery-ui.min.js'></script>
-    <script type='text/javascript' src='assets/js/jquery.bxslider.min.js'></script>
-    <script type='text/javascript' src='assets/js/jquery.countdown.min.js'></script>
-    <script type='text/javascript' src='assets/js/frontend.js'></script>
-    <script type='text/javascript' src='assets/js/frontend-plugin.js'></script>
+    <?php include 'inc/footer.php'; ?>
 </body>
 </html>
