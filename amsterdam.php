@@ -64,19 +64,20 @@
                                 </form>
                             </div>
                             <div class="products row columns-3 products-grid products-wraps">
+                                <!-- start product item -->
                                 <div class="product-item">
                                     <div class="product-media">
                                         <div class="product-images-wrap">
                                             <figure class="product-first-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/1.jpg">
+                                                <a href="amsterdam/item-anne-frank.php">
+                                                    <img alt="img" src="amsterdam/images/anne-frank-370x444-1.png">
                                                 </a>
                                             </figure>
                                         </div>
                                     </div>
                                     <div class="product-info">
-                                        <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                        <span class="price">$75.00</span>
+                                        <h3 class="product-name"><a href="#">Anne Frank Museum</a></h3>
+                                        <span class="price">€9.00</span>
                                         <div class="product-content">
                                             <div title="Rated 5 out of 5" class="star-rating">
                                             <span>
@@ -87,35 +88,31 @@
                                                 <a href="#" class="star-5"><i class="fa fa-star"></i></a>
                                             </span>
                                             </div>
-                                            <div class="product-desc">Keep you skin care products and make-up secure when you are at home or on the road. This Meraki toilet bag has a tiful and simple design with a closure, and the size provides
-                                                you with lots of room for you.
+                                            <div class="product-desc">Het Anne Frank Huis is een monument ter gedachtenis aan Anne Frank en haar familie. Het huis staat in Amsterdam aan de Prinsengracht 263-267.
                                             </div>
                                         </div>
                                         <div class="product-button-action">
                                             <a href="#" class="button add_to_cart_button"> Add To Cart</a>
-                                            <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                            <a href="#" class="compare button"><span class="ti-reload"></span></a>
+                                            <!-- <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
+                                            <a href="#" class="compare button"><span class="ti-reload"></span></a> -->
                                         </div>
                                     </div>
                                 </div>
+                                <!-- end product item -->
+                                <!-- start product item -->
                                 <div class="product-item">
                                     <div class="product-media">
-                                        <div class="product-images-wrap has-secondary-thumb">
+                                        <div class="product-images-wrap">
                                             <figure class="product-first-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/2.jpg">
-                                                </a>
-                                            </figure>
-                                            <figure class="product-second-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/product2.jpg">
+                                                <a href="amsterdam/item-body-worlds.php">
+                                                    <img alt="img" src="amsterdam/images/body-worlds-370x444-3.png">
                                                 </a>
                                             </figure>
                                         </div>
                                     </div>
                                     <div class="product-info">
-                                        <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                        <span class="price">$75.00</span>
+                                        <h3 class="product-name"><a href="#">Body Worlds</a></h3>
+                                        <span class="price">€18.00</span>
                                         <div class="product-content">
                                             <div title="Rated 5 out of 5" class="star-rating">
                                             <span>
@@ -126,230 +123,31 @@
                                                 <a href="#" class="star-5"><i class="fa fa-star"></i></a>
                                             </span>
                                             </div>
-                                            <div class="product-desc">Keep you skin care products and make-up secure when you are at home or on the road. This Meraki toilet bag has a tiful and simple design with a closure, and the size provides
-                                                you with lots of room for you.
-                                            </div>
-                                        </div>
-                                        <div class="product-button-action">
-                                            <a href="#" class="button add_to_cart_button">Add To Cart</a>
-                                            <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                            <a href="#" class="compare button"><span class="ti-reload"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="product-item">
-                                    <div class="product-media">
-                                        <div class="product-images-wrap has-secondary-thumb">
-                                            <figure class="product-first-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/3.jpg">
-                                                </a>
-                                            </figure>
-                                            <figure class="product-second-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/product3.jpg">
-                                                </a>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="product-info">
-                                        <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                        <span class="price">$75.00</span>
-                                        <div class="product-content">
-                                            <div title="Rated 5 out of 5" class="star-rating">
-                                            <span>
-                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
-                                            </span>
-                                            </div>
-                                            <div class="product-desc">Keep you skin care products and make-up secure when you are at home or on the road. This Meraki toilet bag has a tiful and simple design with a closure, and the size provides
-                                                you with lots of room for you.
-                                            </div>
-                                        </div>
-                                        <div class="product-button-action">
-                                            <a href="#" class="button add_to_cart_button">Add To Cart</a>
-                                            <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                            <a href="#" class="compare button"><span class="ti-reload"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="product-item">
-                                    <div class="product-media">
-                                        <div class="product-images-wrap has-secondary-thumb">
-                                            <figure class="product-first-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/4.jpg">
-                                                </a>
-                                            </figure>
-                                            <figure class="product-second-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/product4.jpg">
-                                                </a>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="product-info">
-                                        <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                        <span class="price">$75.00</span>
-                                        <div class="product-content">
-                                            <div title="Rated 5 out of 5" class="star-rating">
-                                            <span>
-                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
-                                            </span>
-                                            </div>
-                                            <div class="product-desc">Keep you skin care products and make-up secure when you are at home or on the road. This Meraki toilet bag has a tiful and simple design with a closure, and the size provides
-                                                you with lots of room for you.
-                                            </div>
-                                        </div>
-                                        <div class="product-button-action">
-                                            <a href="#" class="button add_to_cart_button">Add To Cart</a>
-                                            <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                            <a href="#" class="compare button"><span class="ti-reload"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="product-item">
-                                    <div class="product-media">
-                                        <div class="product-images-wrap has-secondary-thumb">
-                                            <figure class="product-first-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/5.jpg">
-                                                </a>
-                                            </figure>
-                                            <figure class="product-second-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/product5.jpg">
-                                                </a>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="product-info">
-                                        <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                        <span class="price">$75.00</span>
-                                        <div class="product-content">
-                                            <div title="Rated 5 out of 5" class="star-rating">
-                                            <span>
-                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
-                                            </span>
-                                            </div>
-                                            <div class="product-desc">Keep you skin care products and make-up secure when you are at home or on the road. This Meraki toilet bag has a tiful and simple design with a closure, and the size provides
-                                                you with lots of room for you.
-                                            </div>
-                                        </div>
-                                        <div class="product-button-action">
-                                            <a href="#" class="button add_to_cart_button">Add To Cart</a>
-                                            <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                            <a href="#" class="compare button"><span class="ti-reload"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="product-item">
-                                    <div class="product-media">
-                                        <div class="product-images-wrap has-secondary-thumb">
-                                            <figure class="product-first-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/6.jpg">
-                                                </a>
-                                            </figure>
-                                            <figure class="product-second-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/product6.jpg">
-                                                </a>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="product-info">
-                                        <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                        <span class="price">$75.00</span>
-                                        <div class="product-content">
-                                            <div title="Rated 5 out of 5" class="star-rating">
-                                            <span>
-                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
-                                            </span>
-                                            </div>
-                                            <div class="product-desc">Keep you skin care products and make-up secure when you are at home or on the road. This Meraki toilet bag has a tiful and simple design with a closure, and the size provides
-                                                you with lots of room for you.
-                                            </div>
-                                        </div>
-                                        <div class="product-button-action">
-                                            <a href="#" class="button add_to_cart_button">Add To Cart</a>
-                                            <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                            <a href="#" class="compare button"><span class="ti-reload"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="product-item">
-                                    <div class="product-media">
-                                        <div class="product-images-wrap has-secondary-thumb">
-                                            <figure class="product-first-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/7.jpg">
-                                                </a>
-                                            </figure>
-                                            <figure class="product-second-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/product7.jpg">
-                                                </a>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="product-info">
-                                        <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                        <span class="price">$75.00</span>
-                                        <div class="product-content">
-                                            <div title="Rated 5 out of 5" class="star-rating">
-                                            <span>
-                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
-                                            </span>
-                                            </div>
-                                            <div class="product-desc">Keep you skin care products and make-up secure when you are at home or on the road. This Meraki toilet bag has a tiful and simple design with a closure, and the size provides
-                                                you with lots of room for you.
+                                            <div class="product-desc">Discover the secrets of Happiness and its effects on the body. An absolute must-see!
                                             </div>
                                         </div>
                                         <div class="product-button-action">
                                             <a href="#" class="button add_to_cart_button"> Add To Cart</a>
-                                            <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                            <a href="#" class="compare button"><span class="ti-reload"></span></a>
+                                            <!-- <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
+                                            <a href="#" class="compare button"><span class="ti-reload"></span></a> -->
                                         </div>
                                     </div>
                                 </div>
+                                <!-- end product item -->
+                                <!-- start product item -->
                                 <div class="product-item">
                                     <div class="product-media">
-                                        <div class="product-images-wrap has-secondary-thumb">
+                                        <div class="product-images-wrap">
                                             <figure class="product-first-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/8.jpg">
-                                                </a>
-                                            </figure>
-                                            <figure class="product-second-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/product8.jpg">
+                                                <a href="amsterdam/item-rondvaart-amsterdam.php">
+                                                    <img alt="img" src="amsterdam/images/rondvaart-amsterdam-370x444-3.png">
                                                 </a>
                                             </figure>
                                         </div>
                                     </div>
                                     <div class="product-info">
-                                        <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                        <span class="price">$75.00</span>
+                                        <h3 class="product-name"><a href="#">Rondvaart Amsterdam</a></h3>
+                                        <span class="price">€19.00</span>
                                         <div class="product-content">
                                             <div title="Rated 5 out of 5" class="star-rating">
                                             <span>
@@ -360,113 +158,31 @@
                                                 <a href="#" class="star-5"><i class="fa fa-star"></i></a>
                                             </span>
                                             </div>
-                                            <div class="product-desc">Keep you skin care products and make-up secure when you are at home or on the road. This Meraki toilet bag has a tiful and simple design with a closure, and the size provides
-                                                you with lots of room for you.
-                                            </div>
-                                        </div>
-                                        <div class="product-button-action">
-                                            <a href="#" class="button add_to_cart_button">Add To Cart</a>
-                                            <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                            <a href="#" class="compare button"><span class="flaticon-right-arrow"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="product-item">
-                                    <div class="product-media">
-                                        <div class="product-images-wrap has-secondary-thumb">
-                                            <figure class="product-first-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/9.jpg">
-                                                </a>
-                                            </figure>
-                                            <figure class="product-second-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/product9.jpg">
-                                                </a>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="product-info">
-                                        <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                        <span class="price">$75.00</span>
-                                        <div class="product-content">
-                                            <div title="Rated 5 out of 5" class="star-rating">
-                                            <span>
-                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
-                                            </span>
-                                            </div>
-                                            <div class="product-desc">Keep you skin care products and make-up secure when you are at home or on the road. This Meraki toilet bag has a tiful and simple design with a closure, and the size provides
-                                                you with lots of room for you.
-                                            </div>
-                                        </div>
-                                        <div class="product-button-action">
-                                            <a href="#" class="button add_to_cart_button">Add To Cart</a>
-                                            <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                            <a href="#" class="compare button"><span class="ti-reload"></span></a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="product-item">
-                                    <div class="product-media">
-                                        <div class="product-images-wrap has-secondary-thumb">
-                                            <figure class="product-first-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/10.jpg">
-                                                </a>
-                                            </figure>
-                                            <figure class="product-second-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/product10.jpg">
-                                                </a>
-                                            </figure>
-                                        </div>
-                                    </div>
-                                    <div class="product-info">
-                                        <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                        <span class="price">$75.00</span>
-                                        <div class="product-content">
-                                            <div title="Rated 5 out of 5" class="star-rating">
-                                            <span>
-                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
-                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
-                                            </span>
-                                            </div>
-                                            <div class="product-desc">Keep you skin care products and make-up secure when you are at home or on the road. This Meraki toilet bag has a tiful and simple design with a closure, and the size provides
-                                                you with lots of room for you.
+                                            <div class="product-desc">Amsterdam wordt ook wel het 'Venetië van het Noorden' genoemd. Zo'n 100 km. grachten verdelen de stad in kleinere eilanden die verbonden zijn door prachtige historische bruggen.
                                             </div>
                                         </div>
                                         <div class="product-button-action">
                                             <a href="#" class="button add_to_cart_button"> Add To Cart</a>
-                                            <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                            <a href="#" class="compare button"><span class="ti-reload"></span></a>
+                                            <!-- <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
+                                            <a href="#" class="compare button"><span class="ti-reload"></span></a> -->
                                         </div>
                                     </div>
                                 </div>
+                                <!-- end product item -->
+                                <!-- start product item -->
                                 <div class="product-item">
                                     <div class="product-media">
-                                        <div class="product-images-wrap has-secondary-thumb">
+                                        <div class="product-images-wrap">
                                             <figure class="product-first-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/11.jpg">
-                                                </a>
-                                            </figure>
-                                            <figure class="product-second-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/product11.jpg">
+                                                <a href="amsterdam/item-rondvaart-amsterdam.php">
+                                                    <img alt="img" src="amsterdam/images/day-city-cruise-370x444-1.png">
                                                 </a>
                                             </figure>
                                         </div>
                                     </div>
                                     <div class="product-info">
-                                        <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                        <span class="price">$75.00</span>
+                                        <h3 class="product-name"><a href="#">Day City Cruise</a></h3>
+                                        <span class="price">€16.00</span>
                                         <div class="product-content">
                                             <div title="Rated 5 out of 5" class="star-rating">
                                             <span>
@@ -477,35 +193,31 @@
                                                 <a href="#" class="star-5"><i class="fa fa-star"></i></a>
                                             </span>
                                             </div>
-                                            <div class="product-desc">Keep you skin care products and make-up secure when you are at home or on the road. This Meraki toilet bag has a tiful and simple design with a closure, and the size provides
-                                                you with lots of room for you.
+                                            <div class="product-desc">Our luxurious boats are ready to take you on a tour of our beautiful and unique city.  Amsterdam's canals have been awarded UNESCO's World Heritage status and we will show you why.
                                             </div>
                                         </div>
                                         <div class="product-button-action">
-                                            <a href="#" class="button add_to_cart_button">Add To Cart</a>
-                                            <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                            <a href="#" class="compare button"><span class="ti-reload"></span></a>
+                                            <a href="#" class="button add_to_cart_button"> Add To Cart</a>
+                                            <!-- <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
+                                            <a href="#" class="compare button"><span class="ti-reload"></span></a> -->
                                         </div>
                                     </div>
                                 </div>
+                                <!-- end product item -->
+                                <!-- start product item -->
                                 <div class="product-item">
                                     <div class="product-media">
-                                        <div class="product-images-wrap has-secondary-thumb">
+                                        <div class="product-images-wrap">
                                             <figure class="product-first-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/12.jpg">
-                                                </a>
-                                            </figure>
-                                            <figure class="product-second-figure">
-                                                <a href="#">
-                                                    <img alt="img" src="assets/images/products/product1.jpg">
+                                                <a href="amsterdam/item-hop-on-hop-off.php">
+                                                    <img alt="img" src="amsterdam/images/hop-on-hop-off-370x444-1.png">
                                                 </a>
                                             </figure>
                                         </div>
                                     </div>
                                     <div class="product-info">
-                                        <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                        <span class="price">$75.00</span>
+                                        <h3 class="product-name"><a href="#">Hop on Hop off</a></h3>
+                                        <span class="price">€13.00</span>
                                         <div class="product-content">
                                             <div title="Rated 5 out of 5" class="star-rating">
                                             <span>
@@ -516,18 +228,18 @@
                                                 <a href="#" class="star-5"><i class="fa fa-star"></i></a>
                                             </span>
                                             </div>
-                                            <div class="product-desc">Keep you skin care products and make-up secure when you are at home or on the road. This Meraki toilet bag has a tiful and simple design with a closure, and the size provides
-                                                you with lots of room for you.
+                                            <div class="product-desc">Our luxurious boats are ready to take you on a tour of our beautiful and unique city.  Amsterdam's canals have been awarded UNESCO's World Heritage status and we will show you why.
                                             </div>
                                         </div>
                                         <div class="product-button-action">
-                                            <a href="#" class="button add_to_cart_button">Add To Cart</a>
-                                            <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                            <a href="#" class="compare button"><span class="ti-reload"></span></a>
+                                            <a href="#" class="button add_to_cart_button"> Add To Cart</a>
+                                            <!-- <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
+                                            <a href="#" class="compare button"><span class="ti-reload"></span></a> -->
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                                <!-- end product item -->
+                            </div> <!-- products row columns-3 products-grid products-wraps -->
                         </div>
                     </div>
                     <!-- End Main content -->
@@ -537,12 +249,11 @@
                         <div class="widget widget_categories">
                             <h4 class="title-sidebar">CATEGORIES</h4>
                             <ul class="product-categories">
-                                <li class="cat-item"><a href="#">Handbags</a> 20</li>
-                                <li class="cat-item "><a href="#">Shoes</a> 15</li>
-                                <li class="cat-item "><a href="#">Accessories</a> 9</li>
-                                <li class="cat-item cat-parent"><a href="">Beauty</a>  17</li>
-                                <li class="cat-item"><a href="#">Sungglass</a> 9</li>
-                                <li class="cat-item active"><a href="#">Clothing</a> 12</li>
+                                <li class="cat-item"><a href="#">Tours</a> 4</li>
+                                <li class="cat-item "><a href="#">Musea</a> 6</li>
+                                <li class="cat-item "><a href="#">Canal</a> 3</li>
+                                <li class="cat-item cat-parent"><a href="">Beer!</a> 1</li>
+                                <li class="cat-item"><a href="#">Atrriactions</a> 9</li>
                             </ul>
                         </div>
                         <!--End Widget Categories -->
@@ -550,16 +261,16 @@
                         <div class="widget widget_price">
                             <h4 class="title-sidebar">Price</h4>
                             <div class="price_slider_wrapper">
-                                <div data-label-reasult="Range:" data-min="0" data-max="500" data-unit="$" class="slider-range-price " data-value-min="50" data-value-max="350"></div>
+                                <div data-label-reasult="Range:" data-min="0" data-max="50" data-unit="€" class="slider-range-price " data-value-min="1" data-value-max="30"></div>
                                 <div class="price_slider_amount">
                                     <div style="" class="price_label">
-                                        Range: <span class="from">$ 50</span> &mdash; <span class="to">150.00</span>
+                                        Range: <span class="from">€ 1</span> &mdash; <span class="to">30.00</span>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <!-- End Widget Price -->
-                        <!-- Widget Filter By Color -->
+                        <!-- Widget Filter By Color
                         <div class="widget widget_price">
                             <h4 class="title-sidebar">Color</h4>
                             <div class="list-color">
@@ -573,7 +284,7 @@
                             </div>
                         </div>
                         <!-- End Widget Filter By Color -->
-                        <!-- Widget Filter By Brand -->
+                        <!-- Widget Filter By Brand
                         <div class="widget widget_brands">
                             <h4 class="title-sidebar">Brands</h4>
                             <ul class="product-brands">
@@ -584,36 +295,6 @@
                             </ul>
                         </div>
                         <!-- End Widget Filter By Brand -->
-                        <!-- Widget Filter By Size -->
-                        <div class="widget widget_sizes">
-                            <h4 class="title-sidebar">Size Oftions</h4>
-                            <ul class="product-size">
-                                <li class="size-item active"><a href="#">S</a></li>
-                                <li class="size-item"><a href="#">M</a></li>
-                                <li class="size-item"><a href="#">L</a></li>
-                                <li class="size-item"><a href="#">XL</a> </li>
-                                <li class="size-item "><a href="#">XXL</a></li>
-                            </ul>
-                        </div>
-                        <!-- End Widget Filter By Size -->
-                        <!-- Widget Tags Product -->
-                        <div class="widget widget_tags">
-                            <h4 class="title-sidebar">Popular Tags</h4>
-                            <div class="product-tags">
-                                <a class="active" href="#">Bags</a>
-                                <a href="#">Blazers</a>
-                                <a href="#">Accessories</a>
-                                <a href="#">Jumpsuits</a>
-                                <a href="#">Lingerie</a>
-                                <a href="#">Top</a>
-                                <a href="#">Dresses</a>
-                                <a href="#">Sunglasses</a>
-                                <a href="#">Shoes</a>
-                                <a href="#">Skirts</a>
-                                <a href="#">Boots</a>
-                            </div>
-                        </div>
-                        <!-- End Widget Filter By Size -->
                     </div>
                     <!--End Sidebar content -->
                     <div class="pagation col-sm-12">
