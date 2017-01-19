@@ -3,7 +3,7 @@
   position: relative;
   width: 100%;
   z-index: 33;
-  background-color: #FFFFFF;
+  background-color: #000000;
 }
 .has-banner .main-header {
   left: 0;
@@ -794,7 +794,8 @@ header .header-top {
     visibility: visible;
   }
   &.has-banner .main-header {
-    top: 15px;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.6);
   }
 }
 .button-close .icon-bar:first-child {
@@ -1748,14 +1749,3 @@ button.search-submit {
     }
   }
 }
-
-
-
-
-
-
-
-
-
-
-
