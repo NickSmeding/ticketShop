@@ -69,8 +69,8 @@
                                     <div class="product-media">
                                         <div class="product-images-wrap">
                                             <figure class="product-first-figure">
-                                                <a href="amsterdam/item-anne-frank.php">
-                                                    <img alt="img" src="amsterdam/images/anne-frank-370x444-1.png">
+                                                <a href="/amsterdam/item-anne-frank.php">
+                                                    <img alt="img" src="/amsterdam/images/anne-frank-370x444-1.png">
                                                 </a>
                                             </figure>
                                         </div>
@@ -104,8 +104,8 @@
                                     <div class="product-media">
                                         <div class="product-images-wrap">
                                             <figure class="product-first-figure">
-                                                <a href="amsterdam/item-body-worlds.php">
-                                                    <img alt="img" src="amsterdam/images/body-worlds-370x444-3.png">
+                                                <a href="/amsterdam/item-body-worlds.php">
+                                                    <img alt="img" src="/amsterdam/images/body-worlds-370x444-3.png">
                                                 </a>
                                             </figure>
                                         </div>
@@ -139,8 +139,8 @@
                                     <div class="product-media">
                                         <div class="product-images-wrap">
                                             <figure class="product-first-figure">
-                                                <a href="amsterdam/item-rondvaart-amsterdam.php">
-                                                    <img alt="img" src="amsterdam/images/rondvaart-amsterdam-370x444-3.png">
+                                                <a href="/amsterdam/item-rondvaart-amsterdam.php">
+                                                    <img alt="img" src="/amsterdam/images/rondvaart-amsterdam-370x444-3.png">
                                                 </a>
                                             </figure>
                                         </div>
@@ -174,8 +174,8 @@
                                     <div class="product-media">
                                         <div class="product-images-wrap">
                                             <figure class="product-first-figure">
-                                                <a href="amsterdam/item-rondvaart-amsterdam.php">
-                                                    <img alt="img" src="amsterdam/images/day-city-cruise-370x444-1.png">
+                                                <a href="/amsterdam/item-rondvaart-amsterdam.php">
+                                                    <img alt="img" src="/amsterdam/images/day-city-cruise-370x444-1.png">
                                                 </a>
                                             </figure>
                                         </div>
@@ -209,8 +209,8 @@
                                     <div class="product-media">
                                         <div class="product-images-wrap">
                                             <figure class="product-first-figure">
-                                                <a href="amsterdam/item-hop-on-hop-off.php">
-                                                    <img alt="img" src="amsterdam/images/hop-on-hop-off-370x444-1.png">
+                                                <a href="/amsterdam/item-hop-on-hop-off.php">
+                                                    <img alt="img" src="/amsterdam/images/hop-on-hop-off-370x444-1.png">
                                                 </a>
                                             </figure>
                                         </div>
@@ -228,7 +228,112 @@
                                                 <a href="#" class="star-5"><i class="fa fa-star"></i></a>
                                             </span>
                                             </div>
-                                            <div class="product-desc">Our luxurious boats are ready to take you on a tour of our beautiful and unique city.  Amsterdam's canals have been awarded UNESCO's World Heritage status and we will show you why.
+                                            <div class="product-desc">City Sightseeing Amsterdam heet u welkom aan boord van onze kenmerkende rode Hop On-Hop Off boten.
+                                            </div>
+                                        </div>
+                                        <div class="product-button-action">
+                                            <a href="#" class="button add_to_cart_button"> Add To Cart</a>
+                                            <!-- <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
+                                            <a href="#" class="compare button"><span class="ti-reload"></span></a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end product item -->
+                                <!-- start product item -->
+                                <div class="product-item">
+                                    <div class="product-media">
+                                        <div class="product-images-wrap">
+                                            <figure class="product-first-figure">
+                                                <a href="/amsterdam/item-van-gogh-museum.php">
+                                                    <img alt="img" src="/amsterdam/images/vangogh-370x444-1.png">
+                                                </a>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name"><a href="#">Van Gogh Museum</a></h3>
+                                        <span class="price">€13.00</span>
+                                        <div class="product-content">
+                                            <div title="Rated 5 out of 5" class="star-rating">
+                                            <span>
+                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
+                                            </span>
+                                            </div>
+                                            <div class="product-desc">The Van Gogh Museum is located at the Museumplein in Amsterdam. Getting to the museum is easy by public transport, bicycle, car or coach.
+                                            </div>
+                                        </div>
+                                        <div class="product-button-action">
+                                            <a href="#" class="button add_to_cart_button"> Add To Cart</a>
+                                            <!-- <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
+                                            <a href="#" class="compare button"><span class="ti-reload"></span></a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end product item -->
+                                <!-- start product item -->
+                                <div class="product-item">
+                                    <div class="product-media">
+                                        <div class="product-images-wrap">
+                                            <figure class="product-first-figure">
+                                                <a href="/amsterdam/item-rijksmuseum.php">
+                                                    <img alt="img" src="/amsterdam/images/rijksmuseum-370x444-1.png">
+                                                </a>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name"><a href="#">Rijksmuseum</a></h3>
+                                        <span class="price">€13.00</span>
+                                        <div class="product-content">
+                                            <div title="Rated 5 out of 5" class="star-rating">
+                                            <span>
+                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
+                                            </span>
+                                            </div>
+                                            <div class="product-desc">At the Rijksmuseum, art and history take on new meaning for a broad-based, contemporary national and international audience.
+                                            </div>
+                                        </div>
+                                        <div class="product-button-action">
+                                            <a href="#" class="button add_to_cart_button"> Add To Cart</a>
+                                            <!-- <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
+                                            <a href="#" class="compare button"><span class="ti-reload"></span></a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end product item -->
+                                <!-- start product item -->
+                                <div class="product-item">
+                                    <div class="product-media">
+                                        <div class="product-images-wrap">
+                                            <figure class="product-first-figure">
+                                                <a href="/amsterdam/item-heineken-experience.php">
+                                                    <img alt="img" src="/amsterdam/images/heineken-experience-370x444-1.png">
+                                                </a>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name"><a href="#">Heineken Experience</a></h3>
+                                        <span class="price">€13.00</span>
+                                        <div class="product-content">
+                                            <div title="Rated 5 out of 5" class="star-rating">
+                                            <span>
+                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
+                                            </span>
+                                            </div>
+                                            <div class="product-desc">Discover The beer, part of the magic. Visit the Heineken Experience!
                                             </div>
                                         </div>
                                         <div class="product-button-action">
@@ -300,8 +405,8 @@
                     <div class="pagation col-sm-12">
                         <ul class="page-numbers">
                             <li class="prev"><a href="#" class=" page-number">Prev</a></li>
-                            <li><a href="#" class="page-number">1</a></li>
-                            <li><span class="page-numbers current">2</span></li>
+                            <li><a href="#" class="page-number current">1</a></li>
+                            <li><span class="page-numbers">2</span></li>
                             <li><a href="#" class="page-number">3</a></li>
                             <li class="next"><a href="#" class=" page-number">Next</a></li>
                         </ul>
@@ -310,6 +415,6 @@
             </div>
         </div>
     </div>
-    <?php include 'inc/footer.php'; ?>
+    <?php include '/inc/footer.php'; ?>
 </body>
 </html>

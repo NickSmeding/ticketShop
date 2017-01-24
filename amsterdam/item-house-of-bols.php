@@ -1,29 +1,29 @@
 <!-- the header untill the main nav -->
-<?php include 'inc/header-top.php'; ?>
+<?php include '../inc/header-top.php'; ?>
 <!-- end the header untill the main nav -->
 <!-- Main Nav Menu -->
 <nav id="primary-navigation" class="site-navigation nav-show">
     <div id="main-menu" class="main-nav main-menu">
         <ul class="menu-nav">
-            <li class="menu-item active">
-                <a href="index.php">Home</a>
+            <li class="menu-item">
+                <a href="/index.php">Home</a>
             </li>
             <li class="menu-item">
-                <a href="amsterdam.php">Amsterdam</a>
+                <a href="/amsterdam.php">Amsterdam</a>
             </li>
-            <li class="menu-item"><a href="contact.php">Contact</a></li>
+            <li class="menu-item"><a href="/contact.php">Contact</a></li>
         </ul>
     </div>
 </nav>
 <!-- End Main Nav Menu -->
 <!-- Rest of the header -->
-<?php include 'inc/header.php'; ?>
+<?php include '../inc/header.php'; ?>
 <!-- end Rest of the header -->
         <!-- Header Banner -->
         <div class="header-banner banner-image">
             <div class="banner-wrap">
                 <div class="banner-overlay-color" style="background-color: rgba(0,0,0,0.4)"></div>
-                <div class="banner-header" style="background-image: url(assets/images/banner-detail.jpg);min-height:460px;" >
+                <div class="banner-header" style="background-image: url(images/heineken-experience-1920x463.png);min-height:460px;" >
                     <div class="banner-content">
                     </div>
                 </div>
@@ -45,25 +45,22 @@
                                             <div class="single-product-media">
                                                 <div class="images product-img">
                                                     <a href="#" class="image-feature">
-                                                        <img src="assets/images/products/s-img.jpg" alt="img">
+                                                        <img src="images/heineken-experience-500x590-1.png" alt="img">
                                                     </a>
                                                 </div>
                                                 <div class="product-thumbs">
-                                                    <a href="#" class="img-product-thumb"><img src="assets/images/products/thumb1.jpg" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="assets/images/products/thumb2.jpg" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="assets/images/products/thumb3.jpg" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="assets/images/products/thumb1.jpg" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="assets/images/products/thumb2.jpg" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="assets/images/products/thumb3.jpg" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-500x590-1.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-100x120-2.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-100x120-3.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-100x120-4.png" alt=""></a>
                                                 </div>
                                             </div>
-
                                         </div>
                                         <div class="col-sm-7">
                                             <div class="single-product-content">
-                                                <h6 class="product-title">Hooded Denim Jacket in Black</h6>
+                                                <h6 class="product-title">House of bolls</h6>
                                                 <div class="product-price">
-                                                    <span class="price">$75.00</span>
+                                                    <span class="price">€18.99</span>
                                                     <span class="in-stock"><i class="fa fa-check"></i> Instock</span>
                                                 </div>
                                                 <div class="product-rating">
@@ -80,27 +77,13 @@
                                                 </div>
                                                 <div class="product-preview">
                                                     <ul class="review-list">
-                                                        <li class="review-item"><a href="#">5 Review(M)</a></li>
+                                                        <li class="review-item"><a href="#">Review (5)</a></li>
                                                         <li class="review-item"><a href="#">Add your review</a></li>
                                                     </ul>
                                                 </div>
                                                 <div class="product-desc">
-                                                    Quick Overview: Blending sleek style and refined elegance, design offers a casual air to any space and effortlessly complements both modern and
-                                                    traditional ...
+                                                    Discover The beer, part of the magic. Visit the Heineken Experience!
                                                 </div>
-                                                <div class="list-color">
-                                                    <a data-color="#fedc78" class="color1" href="#"></a>
-                                                    <a data-color="#fedc78" class="color2 " href="#"></a>
-                                                    <a data-color="#fedc78" class="color3 active" href="#"></a>
-                                                    <a data-color="#fedc78" class="color4" href="#"></a>
-                                                </div>
-                                                <ul class="product-size">
-                                                    <li class="size-item "><a href="#">S</a></li>
-                                                    <li class="size-item active"><a href="#">M</a></li>
-                                                    <li class="size-item"><a href="#">L</a></li>
-                                                    <li class="size-item"><a href="#">XL</a> </li>
-                                                    <li class="size-item "><a href="#">XXL</a></li>
-                                                </ul>
                                                 <div class="product-list-action">
                                                     <ul>
                                                         <li class="item-action"><a href="#"><i class="fa fa-envelope-o"></i>Email to a Friend</a></li>
@@ -143,28 +126,32 @@
                                         <div class="tab-content">
                                             <div role="tabpanel" class="tab-pane " id="description">
                                                 <div class="box-content">
-                                                    <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non nulla ullamcorper, interdum dolor vel, dictum justo. Vivamus finibus lorem id auctor
-                                                        placerat. Ut fermentum nulla lectus, in laoreet metus ultrices ac. Integer eleifend urna ultricies enim facilisis, vel fermentum eros porta.
-                                                    </p>
-                                                    <p>
-                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non nulla ullamcorper, interdum dolor vel, dictum justo. Vivamus finibus lorem id auctor
-                                                        placerat. Ut fermentum nulla lectus, in laoreet metus ultrices ac. Integer eleifend urna ultricies enim facilisis, vel fermentum eros porta.
-                                                    </p>
+                                                    <p>Mission:<P>
+                                                    <p>There is something secretive about the taste of the world’s best beers and certainly Heineken pilsner belongs to this group. The brewery was established in Amsterdam in 1864 and today Heineken is a huge multinational company, one of the three largest beer producers in the world. Throughout its history, Heineken remained by and large family company, with Charlene de Carvalho-Heineken as its biggest stockholder and her husband Michel on the company’s board. Heineken rich and successful history has been presented in their old defunct brewery in Amsterdam, with several amusement park attractions added to the exhibit and renamed as Amsterdam Heineken Experience.</p>
                                                 </div>
                                             </div>
                                             <div role="tabpanel" class="tab-pane active" id="addinformation">
                                                 <div class="box-content">
-                                                    <p>ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non nulla ullamcorper, interdum dolor vel, dictum justo. Vivamus finibus lorem id auctor
-                                                        placerat. Ut fermentum nulla lectus, in laoreet metus ultrices ac. Integer eleifend urna ultricies enim facilisis, vel fermentum eros porta.
-                                                    </p>
-                                                    <span>Weights & Dimensions</span>
+                                                    <span>Adress & info</span>
                                                     <div class="parameter">
-                                                        <p>Overall: 40" H x 35.5" L x 35.5" W</p>
-                                                        <p>Bar height:40"</p>
-                                                        <p>Overall Product Weight: 88 lbs</p>
+                                                        <p>Museumplein 6</p>
+                                                        <p>1071 DJ Amsterdam</p>
+                                                        <p>&nbsp;</p>
+                                                        <p>Monday to Thursday from 10:30 till 19:30 </p>
+                                                        <p>(Last entry & ticket sales at 17:30)</p>
+                                                        <p>&nbsp;</p>
+                                                        <p>Friday to Sunday from 10:30 till 21:00 </p>
+                                                        <p>(Last entry & ticket sales at 19:00)</p>
+                                                        <p>&nbsp;</p>
+                                                        <p>July & August</p>
+                                                        <p>Monday to Sunday from 10:30 till 21:00</p>
+                                                        <p>(Last entry & ticket sales at 19:00)</p>
+                                                        <p>&nbsp;</p>
+                                                        <p>Open 365 days a year</p>
+                                                        <p>&nbsp;</p>
+                                                        <p>On 24 and 31 December the Heineken Experience will close at 16:00 </p>
+                                                        <p>(Last entry & ticket sales at 14:30)</p>
                                                     </div>
-
                                                 </div>
                                             </div>
                                             <div role="tabpanel" class="tab-pane" id="review">
@@ -186,7 +173,6 @@
                                                                                         <a href="#" class="star-5"><i class="fa fa-star"></i></a>
                                                                                     </span>
                                                                                  </div>
-
                                                                                 <span class="xshop-summary-actions">
                                                                             </span>
                                                                             </div>
@@ -209,15 +195,12 @@
                                                                                         <div class="xshop-form-review-rating">
                                                                                             <label class="xshop-form-label">Rating</label>
                                                                                             <div class="xshop-form-input xshop-starrating ">
-
                                                                                             </div>
                                                                                         </div>
-
                                                                                         <div class="xshop-form-review-title">
                                                                                             <label class="xshop-form-label">Review Title</label>
                                                                                             <input class="xshop-form-input xshop-form-input-text" type="text" name="review[title]" value="" placeholder="Give your review a title">
                                                                                         </div>
-
                                                                                         <div class="xshop-form-review-body">
                                                                                             <label class="xshop-form-label">Body of Review <span class="xshop-form-review-body-charactersremaining">(1500)</span></label>
                                                                                             <div class="xshop-form-input">
@@ -230,123 +213,17 @@
                                                                                     </fieldset>
                                                                                 </form>
                                                                             </div>
-                                                                        </div>
+                                                                        </div> <!-- Xshop-content -->
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                    </div>
+                                                    </div> <!-- row -->
                                                 </div>
-                                            </div>
-                                        </div>
+                                            </div> <!-- tab-pane -->
+                                        </div> <!-- tab-content -->
                                     </div>
-                                </div>
-                                <div class="products-relate">
-                                    <h4 class="title-single-product">Related Products</h4>
-                                    <p>Come & Check our new spring summer collection 2016</p>
-                                    <div class="products xshop-owl-carousel products-grid products-wraps" data-number="4" data-margin="30">
-                                        <div class="product-item">
-                                            <div class="product-media">
-                                                <div class="product-images-wrap has-secondary-thumb">
-                                                    <figure class="product-first-figure">
-                                                        <a href="#">
-                                                            <img alt="img" src="assets/images/products/9.jpg">
-                                                        </a>
-                                                    </figure>
-                                                    <figure class="product-second-figure">
-                                                        <a href="#">
-                                                            <img alt="img" src="assets/images/products/product9.jpg">
-                                                        </a>
-                                                    </figure>
-                                                </div>
-                                            </div>
-                                            <div class="product-info">
-                                                <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                                <span class="price">$75.00</span>
-                                                <div class="product-button-action">
-                                                    <a href="#" class="button add_to_cart_button">Add To Cart</a>
-                                                    <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                                    <a href="#" class="compare button"><span class="ti-reload"></span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="product-item">
-                                            <div class="product-media">
-                                                <div class="product-images-wrap has-secondary-thumb">
-                                                    <figure class="product-first-figure">
-                                                        <a href="#">
-                                                            <img alt="img" src="assets/images/products/10.jpg">
-                                                        </a>
-                                                    </figure>
-                                                    <figure class="product-second-figure">
-                                                        <a href="#">
-                                                            <img alt="img" src="assets/images/products/product10.jpg">
-                                                        </a>
-                                                    </figure>
-                                                </div>
-                                            </div>
-                                            <div class="product-info">
-                                                <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                                <span class="price">$75.00</span>
-                                                <div class="product-button-action">
-                                                    <a href="#" class="button add_to_cart_button"> Add To Cart</a>
-                                                    <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                                    <a href="#" class="compare button"><span class="ti-reload"></span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="product-item">
-                                            <div class="product-media">
-                                                <div class="product-images-wrap has-secondary-thumb">
-                                                    <figure class="product-first-figure">
-                                                        <a href="#">
-                                                            <img alt="img" src="assets/images/products/11.jpg">
-                                                        </a>
-                                                    </figure>
-                                                    <figure class="product-second-figure">
-                                                        <a href="#">
-                                                            <img alt="img" src="assets/images/products/product11.jpg">
-                                                        </a>
-                                                    </figure>
-                                                </div>
-                                            </div>
-                                            <div class="product-info">
-                                                <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                                <span class="price">$75.00</span>
-                                                <div class="product-button-action">
-                                                    <a href="#" class="button add_to_cart_button">Add To Cart</a>
-                                                    <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                                    <a href="#" class="compare button"><span class="ti-reload"></span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="product-item">
-                                            <div class="product-media">
-                                                <div class="product-images-wrap has-secondary-thumb">
-                                                    <figure class="product-first-figure">
-                                                        <a href="#">
-                                                            <img alt="img" src="assets/images/products/12.jpg">
-                                                        </a>
-                                                    </figure>
-                                                    <figure class="product-second-figure">
-                                                        <a href="#">
-                                                            <img alt="img" src="assets/images/products/product1.jpg">
-                                                        </a>
-                                                    </figure>
-                                                </div>
-                                            </div>
-                                            <div class="product-info">
-                                                <h3 class="product-name"><a href="#">Rust Shirt With Half Sleeves</a></h3>
-                                                <span class="price">$75.00</span>
-                                                <div class="product-button-action">
-                                                    <a href="#" class="button add_to_cart_button">Add To Cart</a>
-                                                    <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
-                                                    <a href="#" class="compare button"><span class="ti-reload"></span></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                </div> <!-- product-content-preview -->
                             </div>
                         </div>
                     </div>
@@ -355,6 +232,6 @@
             </div>
         </div>
     </div>
-    <?php include 'inc/footer.php'; ?>
+    <?php include '../inc/footer.php'; ?>
 </body>
 </html>
