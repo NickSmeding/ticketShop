@@ -30,7 +30,7 @@
                                             <li class="mini_cart_item">
                                                 <a class="cart-remove" href="#"></a>
                                                 <a href="#" class="cart-img">
-                                                    <img width="100" height="120" src="assets/images/img-cart1.jpg" alt="img">
+                                                    <img width="100" height="120" src="/assets/images/img-cart1.jpg" alt="img">
                                                 </a>
                                                 <div class="cart-inner">
                                                     <a href="#">Crew Neck T-Shirt SS in Ash</a>
@@ -50,7 +50,7 @@
                                             <li class="mini_cart_item">
                                                 <a class="cart-remove" href="#"></a>
                                                 <a href="#" class="cart-img">
-                                                    <img width="100" height="120" src="assets/images/img-cart2.jpg" alt="img">
+                                                    <img width="100" height="120" src="/assets/images/img-cart2.jpg" alt="img">
                                                 </a>
                                                 <div class="cart-inner">
                                                     <a href="#">Sweatshirt In Grey Marl</a>
@@ -71,7 +71,7 @@
                                             <li class="mini_cart_item">
                                                 <a class="cart-remove" href="#"></a>
                                                 <a href="#" class="cart-img">
-                                                    <img width="100" height="120" src="assets/images/img-cart1.jpg" alt="img">
+                                                    <img width="100" height="120" src="/assets/images/img-cart1.jpg" alt="img">
                                                 </a>
                                                 <div class="cart-inner">
                                                     <a href="#">Crew Neck T-Shirt SS in Ash</a>
@@ -94,7 +94,7 @@
                                     <div class="mini-cart-bottom">
                                         <p class="total">Subtotal <span class="subtotal-price price-amount amount">$200.00</span></p>
                                         <p class="buttons">
-                                            <a class="button checkout" href="checkout.html">Proceed to checkout</a>
+                                            <a class="button checkout" href="/checkout.php">Proceed to checkout</a>
                                             <a class="button " href="cart.html">Go to cart</a>
                                         </p>
                                     </div>
@@ -110,9 +110,9 @@
                                     <h6 class="title-element">My Account</h6>
                                     <ul class="header-account">
                                         <li class="item-account"><a href="#">log in</a> / <a href="#">sign up</a></li>
-                                        <li class="item-account"><a href="cart.html">wishlist <span>(3)</span></a> </li>
-                                        <li class="item-account"><a href="cart.html">Compare items <span>(6)</span></a></li>
-                                        <li class="item-account"><a href="checkout.html">checkout</a></li>
+                                        <li class="item-account"><a href="/cart.html">wishlist <span>(3)</span></a> </li>
+                                        <li class="item-account"><a href="/cart.html">Compare items <span>(6)</span></a></li>
+                                        <li class="item-account"><a href="/checkout.html">checkout</a></li>
                                     </ul>
                                 </div>
                                 <div class="header-element-content-inner">
@@ -126,10 +126,10 @@
                                 <div class="header-element-content-inner language-element">
                                     <h6 class="title-element">language</h6>
                                     <ul class="languages">
-                                        <li class="item-language"><a href="#"><img src="assets/images/usa.png" alt=""></a></li>
-                                        <li class="item-language"><a href="#"><img src="assets/images/france.png" alt=""></a></li>
-                                        <li class="item-language"><a href="#"><img src="assets/images/germany.png" alt=""></a></li>
-                                        <li class="item-language"><a href="#"><img src="assets/images/brazil.png" alt=""></a></li>
+                                        <li class="item-language"><a href="#"><img src="/assets/images/usa.png" alt=""></a></li>
+                                        <li class="item-language"><a href="#"><img src="/assets/images/france.png" alt=""></a></li>
+                                        <li class="item-language"><a href="#"><img src="/assets/images/germany.png" alt=""></a></li>
+                                        <li class="item-language"><a href="#"><img src="/assets/images/brazil.png" alt=""></a></li>
                                     </ul>
                                 </div>
                             </div>

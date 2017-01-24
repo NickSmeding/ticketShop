@@ -1,23 +1,23 @@
 <!-- the header untill the main nav -->
-<?php include 'inc/header-top.php'; ?>
+<?php include '../inc/header-top.php'; ?>
 <!-- end the header untill the main nav -->
 <!-- Main Nav Menu -->
 <nav id="primary-navigation" class="site-navigation nav-show">
     <div id="main-menu" class="main-nav main-menu">
         <ul class="menu-nav">
             <li class="menu-item">
-                <a href="../index.php">Home</a>
+                <a href="/index.php">Home</a>
             </li>
             <li class="menu-item">
-                <a href="../amsterdam.php">Amsterdam</a>
+                <a href="/amsterdam.php">Amsterdam</a>
             </li>
-            <li class="menu-item"><a href="../contact.php">Contact</a></li>
+            <li class="menu-item"><a href="/contact.php">Contact</a></li>
         </ul>
     </div>
 </nav>
 <!-- End Main Nav Menu -->
 <!-- Rest of the header -->
-<?php include 'inc/header.php'; ?>
+<?php include '../inc/header.php'; ?>
 <!-- end Rest of the header -->
         <!-- Header Banner -->
         <div class="header-banner banner-image">
@@ -229,6 +229,6 @@
             </div>
         </div>
     </div>
-    <?php include 'inc/footer.php'; ?>
+    <?php include '../inc/footer.php'; ?>
 </body>
 </html>
