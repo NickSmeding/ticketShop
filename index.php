@@ -156,4 +156,8 @@
     </div>
     <?php include 'inc/footer.php'; ?>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> origin/New-Design
