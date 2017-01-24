@@ -47,7 +47,7 @@
                                                 <a href="#">Crew Neck T-Shirt SS in Ash</a>
                                                 <div class="quantity">
                                                     <p class="product-price">$ 120.00
-                                                        <span class="quantity-input"> (x <input type="text" size="1" class="input-text qty text" title="Qty" value="200" disabled="disabled"> ) </span>
+                                                        <span class="quantity-input"> (x<input type="text" size="1" class="input-text qty text" title="Qty" value="2" disabled="disabled">) </span>
                                                     </p>
                                                     <div class="xshop-quantity">
                                                         <div class=" buttons_added">
@@ -66,9 +66,8 @@
                                             <div class="cart-inner">
                                                 <a href="#">Sweatshirt In Grey Marl</a>
                                                 <div class="quantity">
-                                                    <p class="product-price">
-                                                        <ins><span class="price-amount amount">$80.00 </span></ins>
-                                                        <del><span class="price-amount amount">$120.00</span></del>
+                                                    <p class="product-price">$ 120.00
+                                                        <span class="quantity-input"> (x<input type="text" size="1" class="input-text qty text" title="Qty" value="2" disabled="disabled">) </span>
                                                     </p>
                                                     <div class="xshop-quantity">
                                                         <div class=" buttons_added">
@@ -87,12 +86,11 @@
                                             <div class="cart-inner">
                                                 <a href="#">Crew Neck T-Shirt SS in Ash</a>
                                                 <div class="quantity">
-                                                    <p class="product-price">
-                                                        <ins><span class="price-amount amount">$80.00 </span></ins>
-                                                        <del><span class="price-amount amount">$120.00</span></del>
+                                                    <p class="product-price">$ 120.00
+                                                        <span class="quantity-input"> (x<input id="qty" type="text" size="1" class="input-text qty text" title="Qty" value="2" disabled="disabled">) </span>
                                                     </p>
                                                     <div class="xshop-quantity">
-                                                        <div class=" buttons_added">
+                                                        <div class="buttons_added">
                                                             <a class="sign minus" href="#"></a>
                                                             <a class="sign plus" href="#"></a>
                                                         </div>
@@ -103,11 +101,12 @@
                                     </ul><!-- end product list -->
                                 </div>
                                 <div class="mini-cart-bottom">
-                                    <p class="total">Subtotal <span class="subtotal-price price-amount amount">$200.00</span></p>
+                                    <p class="total">Subtotal <span id="subtotal-price" class="subtotal-price price-amount amount">$200.00</span></p>
                                     <p class="buttons">
                                         <a class="button checkout" href="checkoput.html">Proceed to checkout</a>
                                         <a class="button " href="cart.html">Go to cart</a>
                                     </p>
+                                    
                                 </div>
                             </div>
                         </div>

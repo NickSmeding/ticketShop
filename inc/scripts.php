@@ -12,3 +12,4 @@
 <script type='text/javascript' src='assets/js/jquery.countdown.min.js'></script>
 <script type='text/javascript' src='assets/js/frontend.js'></script>
 <script type='text/javascript' src='assets/js/frontend-plugin.js'></script>
+<script type='text/javascript' src='assets/js/custom.js'></script>

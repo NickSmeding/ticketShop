@@ -1,6 +1,6 @@
 <head>
     <meta charset="utf-8">
-    <title>Home v5 - X-Shop</title>
+    <title>Near Tickets</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <link rel="shortcut icon" href='assets/images/favicon.png' />
     <link rel='stylesheet' type='text/css' href='assets/css/bootstrap.min.css'>
