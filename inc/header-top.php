@@ -1,4 +1,9 @@
 <!DOCTYPE html>
+<?php
+    session_start();
+    $current_url = urlencode($url="http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']);
+    include_once("/inc/db-connect.php"); //include config file
+?>
 <html lang="en">
 <head>
     <meta charset="utf-8">

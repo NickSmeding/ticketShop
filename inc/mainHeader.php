@@ -34,6 +34,30 @@
                         <span class="cart-number-items"> 5 </span>
                         <div id="header-cart" class="header-element-content">
                             <h4 class="title-element">Shopping Cart</h4>
+                            <?php
+                                if(isset($_SESSION["cart_products"]) && count($_SESSION["cart_products"])>0)
+                                {
+                                    $total =0;
+                                    $b = 0;
+                                    
+                                    foreach ($_SESSION["cart_products"] as $cart_itm)
+                                    {
+                                        $product_name = $cart_itm["product_name"];
+                                        $product_qty = $cart_itm["product_qty"];
+                                        $product_price = $cart_itm["product_price"];
+                                        $product_code = $cart_itm["product_code"];
+                                        $product_color = $cart_itm["product_color"];
+                                        $bg_color = ($b++%2==1) ? 'odd' : 'even'; //zebra stripe
+                                        echo '<tr class="'.$bg_color.'">';
+                                        echo '<td>Qty <input type="text" size="2" maxlength="2" name="product_qty['.$product_code.']" value="'.$product_qty.'" /></td>';
+                                        echo '<td>'.$product_name.'</td>';
+                                        echo '<td><input type="checkbox" name="remove_code[]" value="'.$product_code.'" /> Remove</td>';
+                                        echo '</tr>';
+                                        $subtotal = ($product_price * $product_qty);
+                                        $total = ($total + $subtotal);
+                                    }
+                                }
+                            ?>
                             <p class="description-cart">You have <span>3 item(s)</span> in your cart</p>
                             <div class="xshop-cart_list">
                                 <div class="xshop-cart_list-inner content-scrollbar">
