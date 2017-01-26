@@ -1,0 +1,280 @@
+/*-------- Variables ---------*/
+$body_color: #888888;
+$base_color: #df5c53;
+$base_color_lighter: rgba($base_color, .1);
+$base_color_light: rgba($base_color, .8);
+$color_duck : #333333;
+$line_height_option : 96px;
+$font_title : 'Montserrat';
+$font_body : 'Arimo',sans-serif;
+$font_great :'Great Vibes', cursive;
+$backgorund_button : #000000;
+$ipad_vertical : 768px;
+$ipad_horizol : 1024px;
+$mobile : 767px;
+/*---------- Mixin ----------*/
+@mixin animate($time, $animation){
+  animation-duration: $time;
+  -webkit-animation-duration: $time;
+  animation-fill-mode: both;
+  -webkit-animation-fill-mode: both;
+  animation-name: $animation;
+  -webkit-animation-name: $animation;
+}
+@mixin borderbefore{
+  border-bottom: 1px solid #ffffff;
+  border-top: 1px solid #ffffff;
+  transform: scale(0, 1);
+  -o-transform: scale(0, 1);
+  -webkit-transform: scale(0, 1);
+}
+@mixin borderafter{
+  border-left: 1px solid #ffffff;
+  border-right: 1px solid #ffffff;
+  transform: scale(1, 0);
+  -webkit-transform: scale(1, 0);
+  -o-transform: scale(1, 0);
+}
+@mixin borderposition{
+  bottom: 15px;
+  content: "";
+  left: 15px;
+  position: absolute;
+  right: 15px;
+  top: 15px;
+  transition: all 0.6s ease-in-out 0s;
+  -o-transition: all 0.6s ease-in-out 0s;
+  -webkit-transition: all 0.6s ease-in-out 0s;
+  z-index: -10;
+}
+@mixin bordershow{
+  opacity: 1;
+  transform: scale(1);
+  -o-transform: scale(1);
+  -webkit-transform: scale(1);
+  z-index: 9;
+}
+@mixin tablet {
+  @media (min-width: #{$ipad_vertical}) and (max-width: #{$ipad_horizol - 1px}) {
+    @content;
+  }
+}
+@mixin desktop {
+  @media (min-width: #{$ipad_horizol}) {
+    @content;
+  }
+}
+@mixin line_height($lineheight){
+  line-height: $lineheight;
+}
+@mixin height($height){
+  height: $height;
+}
+@mixin screen-reader-text {
+  clip: rect(1px, 1px, 1px, 1px);
+  height: 1px;
+  overflow: hidden;
+  position: absolute !important;
+  width: 1px;
+}
+@mixin transition_04 {
+  -webkit-transition: opacity 0.4s ease, -webkit-transform 0.4s ease, visibility 0.4s linear 0s;
+  -moz-transition: opacity 0.4s ease, -moz-transform 0.4s ease, visibility 0.4s linear 0s;
+  -ms-transition: opacity 0.4s ease, -ms-transform 0.4s ease, visibility 0.4s linear 0s;
+  -o-transition: opacity 0.4s ease, -o-transform 0.4s ease, visibility 0.4s linear 0s;
+  transition: opacity 0.4s ease, transform 0.4s ease, visibility 0.4s linear 0s;
+}
+
+@mixin transition_ease($time) {
+  -webkit-transition: all $time ease, -webkit-transform $time ease;
+  -moz-transition: all $time ease, -moz-transform $time ease;
+  -ms-transition: all $time ease, -ms-transform $time ease;
+  -o-transition: all $time ease, -o-transform $time ease;
+  transition: all $time ease, transform $time ease;
+}
+
+@mixin transform_translateY($posY) {
+  -webkit-transform: translateY($posY);
+  -ms-transform: translateY($posY);
+  -o-transform: translateY($posY);
+  transform: translateY($posY);
+}
+
+@mixin transform_translateX($posX) {
+  -webkit-transform: translateX($posX);
+  -ms-transform: translateX($posX);
+  -o-transform: translateX($posX);
+  transform: translateX($posX);
+}
+
+@mixin transform_translate($posX, $posY) {
+  -webkit-transform: translateX($posX) translateY($posY);
+  -ms-transform: translateX($posX) translateY($posY);
+  -o-transform: translateX($posX) translateY($posY);
+  transform: translateX($posX) translateY($posY);
+}
+@mixin transform_translate_scale($posX, $posY, $scale) {
+  -webkit-transform: translateX($posX) translateY($posY) scale($scale);
+  -ms-transform: translateX($posX) translateY($posY) scale($scale);
+  -o-transform: translateX($posX) translateY($posY scale($scale));
+  transform: translateX($posX) translateY($posY) scale($scale);
+}
+@mixin transform_scale($scale) {
+  -webkit-transform: scale($scale);
+  -ms-transform:  scale($scale);
+  -o-transform: scale($scale);
+  transform: scale($scale);
+}
+@mixin transform_scales($scaleX,$scaleY)  {
+  -webkit-transform: scale($scaleX,$scaleY);
+  -ms-transform:  scale($scaleX,$scaleY);
+  -o-transform: scale($scaleX,$scaleY);
+  transform: scale($scaleX,$scaleY);
+}
+@mixin transition_1s {
+  -moz-transition: all 1s ease;
+  -ms-transition: all 1s ease;
+  -webkit-transition: all 1s ease;
+  -o-transition: all 1s ease;
+}
+
+@mixin transition_06 {
+  -webkit-transition: all .6s ease-in-out;
+  -moz-transition: all .6s ease-in-out;
+  -ms-transition: all .6s ease-in-out;
+  -o-transition: all .6s ease-in-out;
+  transition: all .6s ease-in-out;
+}
+@mixin transition_03 {
+  -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -ms-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  transition: all .3s ease;
+}
+@mixin border_circle {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+}
+
+@mixin border_radius_5px {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+}
+
+@mixin border_radius($radius) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  -ms-border-radius: $radius;
+  -o-border-radius: $radius;
+  border-radius: $radius;
+}
+
+@mixin bg_zoom_effect {
+  transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1); /* IE 9 */
+  -ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=1.5, M12=0, M21=0, M22=1.5, SizingMethod='auto expand')"; /* IE8 */
+  filter: progid:DXImageTransform.Microsoft.Matrix(M11=1.5, M12=0, M21=0, M22=1.5, SizingMethod='auto expand'); /* IE6 and 7 */
+}
+
+@mixin hover_effect_diagonally {
+  -webkit-transform: skew(20deg, 0deg);
+  -ms-transform: skew(20deg, 0deg);
+  -o-transform: skew(20deg, 0deg);
+  transform: skew(20deg, 0deg);
+  background-color: rgba(255, 255, 255, 0.3);
+  content: "";
+  height: 100%;
+  position: absolute;
+  z-index: 1;
+  top: 0px;
+  -webkit-transition: all 0.8s ease 0s;
+  -o-transition: all 0.8s ease 0s;
+  transition: all 0.8s ease 0s;
+  width: 70%;
+}
+
+@mixin hover_effect_diagonally_before {
+  @include hover_effect_diagonally;
+  left: -100%;
+}
+
+@mixin hover_effect_diagonally_after {
+  @include hover_effect_diagonally;
+  right: -100%;
+}
+
+@mixin hover_effect_crossing {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: 1;
+  cursor: pointer;
+  @include transition_06;
+}
+
+@mixin hover_plus_effect_before {
+  content: '+';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  color: #fff;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 30px;
+  font-weight: 100;
+  z-index: 1;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
+@mixin hover_plus_effect_after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  -webkit-transform: scale(0);
+  -ms-transform: scale(0);
+  -o-transform: scale(0);
+  transform: scale(0);
+  -webkit-transition: all 0.3s ease 0s;
+  -o-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
+}
+
+@mixin hover_zoom_scale_opacity_05() {
+  opacity: 0.5;
+  transition: all 1s ease-in-out;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transform: scale(1.01);
+  -webkit-transform: scale(1.01);
+  -o-transform: scale(1.01);
+}
+@mixin rotate($deg){
+  -webkit-transform: rotate($deg);
+  -ms-transform: rotate($deg);
+  -o-transform: rotate($deg);
+  transform: rotate($deg);
+}
