@@ -1,29 +1,29 @@
 <!-- the header untill the main nav -->
-<?php include 'inc/header-top.php'; ?>
+<?php include '../inc/header-top.php'; ?>
 <!-- end the header untill the main nav -->
 <!-- Main Nav Menu -->
 <nav id="primary-navigation" class="site-navigation nav-show">
     <div id="main-menu" class="main-nav main-menu">
         <ul class="menu-nav">
             <li class="menu-item">
-                <a href="../index.php">Home</a>
+                <a href="/index.php">Home</a>
             </li>
             <li class="menu-item">
-                <a href="../amsterdam.php">Amsterdam</a>
+                <a href="/amsterdam.php">Amsterdam</a>
             </li>
-            <li class="menu-item"><a href="../contact.php">Contact</a></li>
+            <li class="menu-item"><a href="/contact.php">Contact</a></li>
         </ul>
     </div>
 </nav>
 <!-- End Main Nav Menu -->
 <!-- Rest of the header -->
-<?php include 'inc/header.php'; ?>
+<?php include '../inc/header.php'; ?>
 <!-- end Rest of the header -->
         <!-- Header Banner -->
         <div class="header-banner banner-image">
             <div class="banner-wrap">
                 <div class="banner-overlay-color" style="background-color: rgba(0,0,0,0.4)"></div>
-                <div class="banner-header" style="background-image: url(images/day-city-cruise-1920x463.png);min-height:460px;" >
+                <div class="banner-header" style="background-image: url(images/hop-on-hop-off-1920x463.png);min-height:460px;" >
                     <div class="banner-content">
                     </div>
                 </div>
@@ -45,14 +45,16 @@
                                             <div class="single-product-media">
                                                 <div class="images product-img">
                                                     <a href="#" class="image-feature">
-                                                        <img src="images/day-city-cruise-500x590-3.png" alt="img">
+                                                        <img src="images/hop-on-hop-off-500x590-1.png" alt="img">
                                                     </a>
                                                 </div>
                                                 <div class="product-thumbs">
-                                                    <a href="#" class="img-product-thumb"><img src="images/day-city-cruise-100x120-1.png" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="images/day-city-cruise-100x120-2.png" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="images/day-city-cruise-100x120-3.png" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="images/day-city-cruise-100x120-4.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/hop-on-hop-off-100x120-1.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/hop-on-hop-off-100x120-2.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/hop-on-hop-off-100x120-3.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/hop-on-hop-off-100x120-1.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/hop-on-hop-off-100x120-2.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/hop-on-hop-off-100x120-3.png" alt=""></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -82,7 +84,7 @@
                                                     </ul>
                                                 </div>
                                                 <div class="product-desc">
-                                                    Our luxurious boats are ready to take you on a tour of our beautiful and unique city.  Amsterdam's canals have been awarded UNESCO's World Heritage status and we will show you why.
+                                                    City Sightseeing Amsterdam heet u welkom aan boord van onze kenmerkende rode Hop On-Hop Off boten.
                                                 </div>
                                                 <div class="product-list-action">
                                                     <ul>
@@ -126,21 +128,32 @@
                                         <div class="tab-content">
                                             <div role="tabpanel" class="tab-pane " id="description">
                                                 <div class="box-content">
-                                                    <p>Our luxurious boats are ready to take you on a tour of our beautiful and unique city.  Amsterdam's canals have been awarded UNESCO's World Heritage status and we will show you why.</p>
-                                                    <p>Our 75-minute City Canal Cruise, passing all of the city's highlights, is simply the most relaxing and fun way to do this. Our boats offer a unique vantage point for making the best photographs to take home.</p>
-                                                    <p>Using our Personal Audio System you can listen to our guide story in your preferred language. Our audio commentary is available in 19 languages on every departure: Dutch, English, German, French, Spanish, Italian, Japanese, Russian, Polish, Chinese, Czech, Thai, Indonesian, Korean, Swedish, Portuguese, Cantonese, Finnish & Croatian.</p>
+                                                    <p>City Sightseeing Amsterdam heet u welkom aan boord van onze kenmerkende rode Hop On-Hop Off boten. Geniet van prachtige panoramische uitzichten langs zorgvuldig uitgekozen routes die alle belangrijke bezienswaardigheden van Amsterdam aandoen. U krijgt interessante bezienswaardigheden te zien waaronder de Westerkerk, de Magere Brug, en bezienswaardigheden. U kunt in een periode van 24 uur zo vaak in- en uitstappen waar- en wanneer u maar wilt.</p>
                                                 </div>
                                             </div>
                                             <div role="tabpanel" class="tab-pane active" id="addinformation">
                                                 <div class="box-content">
                                                     <span>Adress & info</span>
                                                     <div class="parameter">
-                                                      <P>Stadhouderskade 78<P>
-                                                      <P>Opposite 'Heineken Experience'<P>
-                                                      <P>1072 AE Amsterdam Amsterdam<P>
-                                                      <P>&nbsp;</p>
-                                                      <P>Tel: +31 20 679 1370<P>
-                                                      <P>Email: info@amsterdamcanalcruises.nl<P>
+                                                        <p>Zomer seizoen (23 maart - 30 oktober):</p>
+                                                        <p>Dagelijks frequente vertrekken van van 09.15 - 18.15 u.</p>
+                                                        <p>Op zaterdag en in Augustus frequente vertrekken van 09.15 - 18.45 u. </p>
+                                                        <p>&nbsp;</p>
+                                                        <p>Winter seizoen (31 oktober - 22 maart):</p>
+                                                        <p>Dagelijks frequente vertrekken van 10.00 - 18.05 u.</p>
+                                                        <p>&nbsp;</p>
+                                                        <p>Extra informatie:</p>
+                                                        <p>Deze cruise kent geen vertrekken op 27 april vanwege Koningsdag</p>
+                                                        <p>&nbsp;</p>
+                                                        <p>Duur: </p>
+                                                        <p>Ticket geldig voor 24 uur</p>
+                                                        <p>&nbsp;</p>
+                                                        <p>Check-in: </p>
+                                                        <p>De tour heeft meerdere opstappunten</p>
+                                                        <p>&nbsp;</p>
+                                                        <p>Kind leeftijd en prijs:</p>
+                                                        <p>0 - 3 jaar: gratis</p>
+                                                        <p>4 - 13 jaar: € 11</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -222,6 +235,6 @@
             </div>
         </div>
     </div>
-    <?php include 'inc/footer.php'; ?>
+    <?php include '../inc/footer.php'; ?>
 </body>
 </html>
