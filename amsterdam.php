@@ -19,7 +19,7 @@
 <div class="header-banner banner-image">
     <div class="banner-wrap">
         <div class="banner-overlay-color" style="background-color: rgba(0,0,0,0.4)"></div>
-        <div class="banner-header" style="background-image: url(assets/images/banner-img.jpg);min-height:460px;" >
+        <div class="banner-header" style="background-image: url(assets/images/amsterdam-top-banner.png);min-height:460px;" >
         </div>
     </div>
 </div>
@@ -334,6 +334,216 @@
                                             </span>
                                             </div>
                                             <div class="product-desc">Discover The beer, part of the magic. Visit the Heineken Experience!
+                                            </div>
+                                        </div>
+                                        <div class="product-button-action">
+                                            <a href="#" class="button add_to_cart_button"> Add To Cart</a>
+                                            <!-- <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
+                                            <a href="#" class="compare button"><span class="ti-reload"></span></a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end product item -->
+                                <!-- start product item -->
+                                <div class="product-item">
+                                    <div class="product-media">
+                                        <div class="product-images-wrap">
+                                            <figure class="product-first-figure">
+                                                <a href="/amsterdam/item-madame-tussaauds.php">
+                                                    <img alt="img" src="/amsterdam/images/madametussauds-500x590-1.png">
+                                                </a>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name"><a href="#">Madame Tussauds</a></h3>
+                                        <span class="price">€13.00</span>
+                                        <div class="product-content">
+                                            <div title="Rated 5 out of 5" class="star-rating">
+                                            <span>
+                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
+                                            </span>
+                                            </div>
+                                            <div class="product-desc">Discover The beer, part of the magic. Visit the Heineken Experience!
+                                            </div>
+                                        </div>
+                                        <div class="product-button-action">
+                                            <a href="#" class="button add_to_cart_button"> Add To Cart</a>
+                                            <!-- <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
+                                            <a href="#" class="compare button"><span class="ti-reload"></span></a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end product item -->
+                                <!-- start product item -->
+                                <div class="product-item">
+                                    <div class="product-media">
+                                        <div class="product-images-wrap">
+                                            <figure class="product-first-figure">
+                                                <a href="/amsterdam/item-house-of-bols.php">
+                                                    <img alt="img" src="/amsterdam/images/house-of-bols-500x590-2.png">
+                                                </a>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name"><a href="#">House of Bols</a></h3>
+                                        <span class="price">€13.00</span>
+                                        <div class="product-content">
+                                            <div title="Rated 5 out of 5" class="star-rating">
+                                            <span>
+                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
+                                            </span>
+                                            </div>
+                                            <div class="product-desc">The House of Bols is a unique interactive cocktail and Genever experience.
+                                            </div>
+                                        </div>
+                                        <div class="product-button-action">
+                                            <a href="#" class="button add_to_cart_button"> Add To Cart</a>
+                                            <!-- <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
+                                            <a href="#" class="compare button"><span class="ti-reload"></span></a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end product item -->
+                                <!-- start product item -->
+                                <div class="product-item">
+                                    <div class="product-media">
+                                        <div class="product-images-wrap">
+                                            <figure class="product-first-figure">
+                                                <a href="/amsterdam/item-red-light-secrets.php">
+                                                    <img alt="img" src="/amsterdam/images/red-light-secrets-500x590-1.png">
+                                                </a>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name"><a href="#">Red Light Secrets</a></h3>
+                                        <span class="price">€8.00</span>
+                                        <div class="product-content">
+                                            <div title="Rated 5 out of 5" class="star-rating">
+                                            <span>
+                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
+                                            </span>
+                                            </div>
+                                            <div class="product-desc">Unique chance to peek inside the hidden world of prostitution
+                                            </div>
+                                        </div>
+                                        <div class="product-button-action">
+                                            <a href="#" class="button add_to_cart_button"> Add To Cart</a>
+                                            <!-- <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
+                                            <a href="#" class="compare button"><span class="ti-reload"></span></a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end product item -->
+                                <!-- start product item -->
+                                <div class="product-item">
+                                    <div class="product-media">
+                                        <div class="product-images-wrap">
+                                            <figure class="product-first-figure">
+                                                <a href="/amsterdam/item-het-Scheepvaartmuseum.php">
+                                                    <img alt="img" src="/amsterdam/images/het-scheepvaartmuseum-500x590-1.png">
+                                                </a>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name"><a href="#">Het Scheepvaartmuseum</a></h3>
+                                        <span class="price">€8.00</span>
+                                        <div class="product-content">
+                                            <div title="Rated 5 out of 5" class="star-rating">
+                                            <span>
+                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
+                                            </span>
+                                            </div>
+                                            <div class="product-desc">Unique chance to peek inside the hidden world of prostitution
+                                            </div>
+                                        </div>
+                                        <div class="product-button-action">
+                                            <a href="#" class="button add_to_cart_button"> Add To Cart</a>
+                                            <!-- <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
+                                            <a href="#" class="compare button"><span class="ti-reload"></span></a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end product item -->
+                                <!-- start product item -->
+                                <div class="product-item">
+                                    <div class="product-media">
+                                        <div class="product-images-wrap">
+                                            <figure class="product-first-figure">
+                                                <a href="/amsterdam/item-walibi-holland.php">
+                                                    <img alt="img" src="/amsterdam/images/walibi-holland-500x590-1.png">
+                                                </a>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name"><a href="#">Walibi Holland</a></h3>
+                                        <span class="price">€28.00</span>
+                                        <div class="product-content">
+                                            <div title="Rated 5 out of 5" class="star-rating">
+                                            <span>
+                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
+                                            </span>
+                                            </div>
+                                            <div class="product-desc"> Walibi Holland is a theme park in Biddinghuizen, The Netherlands.
+                                            </div>
+                                        </div>
+                                        <div class="product-button-action">
+                                            <a href="#" class="button add_to_cart_button"> Add To Cart</a>
+                                            <!-- <a href="#" class="button add_to_wishlist"><span class="ti-heart"></span></a>
+                                            <a href="#" class="compare button"><span class="ti-reload"></span></a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end product item -->
+                                <!-- start product item -->
+                                <div class="product-item">
+                                    <div class="product-media">
+                                        <div class="product-images-wrap">
+                                            <figure class="product-first-figure">
+                                                <a href="/amsterdam/item-ripleys.php">
+                                                    <img alt="img" src="/amsterdam/images/ripleys-500x590-1.png">
+                                                </a>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                    <div class="product-info">
+                                        <h3 class="product-name"><a href="#">Ripleys</a></h3>
+                                        <span class="price">€21.00</span>
+                                        <div class="product-content">
+                                            <div title="Rated 5 out of 5" class="star-rating">
+                                            <span>
+                                                <a href="#" class="star-1"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-2"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-3"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-4"><i class="fa fa-star"></i></a>
+                                                <a href="#" class="star-5"><i class="fa fa-star"></i></a>
+                                            </span>
+                                            </div>
+                                            <div class="product-desc">Believe It or Not!
                                             </div>
                                         </div>
                                         <div class="product-button-action">
