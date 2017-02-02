@@ -23,7 +23,7 @@
         <div class="header-banner banner-image">
             <div class="banner-wrap">
                 <div class="banner-overlay-color" style="background-color: rgba(0,0,0,0.4)"></div>
-                <div class="banner-header" style="background-image: url(images/heineken-experience-1920x463.png);min-height:460px;" >
+                <div class="banner-header" style="background-image: url(images/house-of-bols-1920x463.png);min-height:460px;" >
                     <div class="banner-content">
                     </div>
                 </div>
@@ -45,20 +45,21 @@
                                             <div class="single-product-media">
                                                 <div class="images product-img">
                                                     <a href="#" class="image-feature">
-                                                        <img src="images/heineken-experience-500x590-1.png" alt="img">
+                                                        <img src="images/house-of-bols-500x590-2.png" alt="img">
                                                     </a>
                                                 </div>
                                                 <div class="product-thumbs">
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-500x590-1.png" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-100x120-2.png" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-100x120-3.png" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-100x120-4.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/house-of-bols-500x590-1.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/house-of-bols-500x590-2.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/house-of-bols-500x590-3.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/house-of-bols-500x590-4.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/house-of-bols-500x590-5.png" alt=""></a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-sm-7">
                                             <div class="single-product-content">
-                                                <h6 class="product-title">House of bolls</h6>
+                                                <h6 class="product-title">House of bols</h6>
                                                 <div class="product-price">
                                                     <span class="price">€18.99</span>
                                                     <span class="in-stock"><i class="fa fa-check"></i> Instock</span>
@@ -126,31 +127,32 @@
                                         <div class="tab-content">
                                             <div role="tabpanel" class="tab-pane " id="description">
                                                 <div class="box-content">
-                                                    <p>Mission:<P>
-                                                    <p>There is something secretive about the taste of the world’s best beers and certainly Heineken pilsner belongs to this group. The brewery was established in Amsterdam in 1864 and today Heineken is a huge multinational company, one of the three largest beer producers in the world. Throughout its history, Heineken remained by and large family company, with Charlene de Carvalho-Heineken as its biggest stockholder and her husband Michel on the company’s board. Heineken rich and successful history has been presented in their old defunct brewery in Amsterdam, with several amusement park attractions added to the exhibit and renamed as Amsterdam Heineken Experience.</p>
+                                                  <P>Beleef een interactieve ontdekkingsreis door de wereld van cocktails en bartending en maak kennis met het oudste gedistilleerde merk ter wereld – Lucas Bols, in Amsterdam sinds 1575.</p>
+                                                    <p>&nbsp;</p>
+                                                  <p>Een Tour House of Bols is self-guiding en interactief. In de Hall of Taste worden alle zintuigen op speelse wijze geprikkeld en in de BOLS Genever room leren bezoekers alles over de herkomst en toepassing van Nederlandse jenever. Wie zelf de kunst van het Flairbartending – à la Tom Cruise – wil leren kan terecht in de Flairbooth. </p>
+                                                  <p>&nbsp;</p>
+                                                  <p>De tour eindigt in de Spiegelbar waar bezoekers met behulp van innovatieve cocktail selectors een cocktail kunnen kiezen die vervolgens ter plekke door een professionele bartender wordt gemaakt.</p>
                                                 </div>
                                             </div>
                                             <div role="tabpanel" class="tab-pane active" id="addinformation">
                                                 <div class="box-content">
                                                     <span>Adress & info</span>
                                                     <div class="parameter">
-                                                        <p>Museumplein 6</p>
-                                                        <p>1071 DJ Amsterdam</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>Monday to Thursday from 10:30 till 19:30 </p>
-                                                        <p>(Last entry & ticket sales at 17:30)</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>Friday to Sunday from 10:30 till 21:00 </p>
-                                                        <p>(Last entry & ticket sales at 19:00)</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>July & August</p>
-                                                        <p>Monday to Sunday from 10:30 till 21:00</p>
-                                                        <p>(Last entry & ticket sales at 19:00)</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>Open 365 days a year</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>On 24 and 31 December the Heineken Experience will close at 16:00 </p>
-                                                        <p>(Last entry & ticket sales at 14:30)</p>
+                                                      <p>Openingstijden: </p>
+                                                      <p>Zon - don: 13.00-18.30 u.</p>
+                                                      <p>Vr - za: 13.00-21.00 u.</p>
+                                                      <p>&nbsp;</p>
+                                                      <p>Speciale opneningstijden</p>
+                                                      <p>Gesloten van 31 oktober t/m 20 november als gevolg van een renovatie</p>
+                                                      <p>&nbsp;</p>
+                                                      <p>Laatste toegang:</p>
+                                                      <p>1 uur voor sluitingstijd</p>
+                                                      <p>&nbsp;</p>
+                                                      <p>Locatie:</p>
+                                                      <p>Paulus Potterstraat 14, Amsterdam</p>
+                                                      <p>&nbsp;</p>
+                                                      <p>Inclusief</p>
+                                                      <p>Een cocktail</p>
                                                     </div>
                                                 </div>
                                             </div>

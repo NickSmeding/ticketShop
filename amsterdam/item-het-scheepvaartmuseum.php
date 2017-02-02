@@ -23,7 +23,7 @@
         <div class="header-banner banner-image">
             <div class="banner-wrap">
                 <div class="banner-overlay-color" style="background-color: rgba(0,0,0,0.4)"></div>
-                <div class="banner-header" style="background-image: url(images/heineken-experience-1920x463.png);min-height:460px;" >
+                <div class="banner-header" style="background-image: url(images/het-scheepvaartmuseum-1920x463.png);min-height:460px;" >
                     <div class="banner-content">
                     </div>
                 </div>
@@ -45,14 +45,13 @@
                                             <div class="single-product-media">
                                                 <div class="images product-img">
                                                     <a href="#" class="image-feature">
-                                                        <img src="images/heineken-experience-500x590-1.png" alt="img">
+                                                        <img src="images/het-scheepvaartmuseum-500x590-1.png" alt="img">
                                                     </a>
                                                 </div>
                                                 <div class="product-thumbs">
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-500x590-1.png" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-100x120-2.png" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-100x120-3.png" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-100x120-4.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/het-scheepvaartmuseum-500x590-1.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/het-scheepvaartmuseum-500x590-2.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/het-scheepvaartmuseum-500x590-3.png" alt=""></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -60,7 +59,7 @@
                                             <div class="single-product-content">
                                                 <h6 class="product-title">scheepvaart museum</h6>
                                                 <div class="product-price">
-                                                    <span class="price">€18.99</span>
+                                                    <span class="price">€15.00</span>
                                                     <span class="in-stock"><i class="fa fa-check"></i> Instock</span>
                                                 </div>
                                                 <div class="product-rating">
@@ -82,7 +81,7 @@
                                                     </ul>
                                                 </div>
                                                 <div class="product-desc">
-                                                    Discover The beer, part of the magic. Visit the Heineken Experience!
+                                                    Het Scheepvaartmuseum, The National Maritime Museum, gehuisvest in het magazijn van de oude admiraliteit, wil iedereen graag laten ontdekken hoe Nederland gevormd is door de zee.
                                                 </div>
                                                 <div class="product-list-action">
                                                     <ul>
@@ -126,31 +125,23 @@
                                         <div class="tab-content">
                                             <div role="tabpanel" class="tab-pane " id="description">
                                                 <div class="box-content">
-                                                    <p>Mission:<P>
-                                                    <p>There is something secretive about the taste of the world’s best beers and certainly Heineken pilsner belongs to this group. The brewery was established in Amsterdam in 1864 and today Heineken is a huge multinational company, one of the three largest beer producers in the world. Throughout its history, Heineken remained by and large family company, with Charlene de Carvalho-Heineken as its biggest stockholder and her husband Michel on the company’s board. Heineken rich and successful history has been presented in their old defunct brewery in Amsterdam, with several amusement park attractions added to the exhibit and renamed as Amsterdam Heineken Experience.</p>
+                                                    <p>Het Scheepvaartmuseum, The National Maritime Museum, gehuisvest in het magazijn van de oude admiraliteit, wil iedereen graag laten ontdekken hoe Nederland gevormd is door de zee. Ze wil met exposities verduidelijken, prikkelen en inspireren. Van oudsher houdt Nederland zich bezig met het overwinnen van de zee; zeilen op volle zee, op zoek naar onontdekte landen en handel, het terugwinnen van land op de zee, het winnen van zeeslagen en het voeren van de handel met verre landen. Opwinding, avontuur en moed waren de belangrijkste kenmerken van de zeelieden uit het verleden. Dit alles komt bij elkaar in Het Scheepvaartmuseum.</p>
+                                                    <p>In Het Scheepvaartmuseum, The National Maritime Museum, verkent u 500 jaar Nederlandse maritieme geschiedenis. Kom aan boord van de replica van het Nederlandse VOC-schip De Amsterdam of monster aan voor de 'Voyage at Sea' en ervaar het leven van de zeelui. Met zijn interactieve tentoonstellingen ervaart u de maritieme geschiedenis van Nederland. Zonder zee en scheepvaart zou er geen Nederland zijn.</p>
                                                 </div>
                                             </div>
                                             <div role="tabpanel" class="tab-pane active" id="addinformation">
                                                 <div class="box-content">
                                                     <span>Adress & info</span>
                                                     <div class="parameter">
-                                                        <p>Museumplein 6</p>
-                                                        <p>1071 DJ Amsterdam</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>Monday to Thursday from 10:30 till 19:30 </p>
-                                                        <p>(Last entry & ticket sales at 17:30)</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>Friday to Sunday from 10:30 till 21:00 </p>
-                                                        <p>(Last entry & ticket sales at 19:00)</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>July & August</p>
-                                                        <p>Monday to Sunday from 10:30 till 21:00</p>
-                                                        <p>(Last entry & ticket sales at 19:00)</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>Open 365 days a year</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>On 24 and 31 December the Heineken Experience will close at 16:00 </p>
-                                                        <p>(Last entry & ticket sales at 14:30)</p>
+                                                      <p>Openingstijden: </p>
+                                                      <p>Dagelijks van 09.00 - 17.00 u.</p>
+                                                      <p>&nbsp;</p>
+                                                      <p>Kind leeftijd en prijs:</p>
+                                                      <p>0 - 3 jaar: gratis</p>
+                                                      <p>4 - 17 jaar: € 7,50</p>
+                                                      <p>&nbsp;</p>
+                                                      <p>Locatie: </p>
+                                                      <p>Kattenburgerplein 1, Amsterdam</p>
                                                     </div>
                                                 </div>
                                             </div>

@@ -23,7 +23,7 @@
         <div class="header-banner banner-image">
             <div class="banner-wrap">
                 <div class="banner-overlay-color" style="background-color: rgba(0,0,0,0.4)"></div>
-                <div class="banner-header" style="background-image: url(images/heineken-experience-1920x463.png);min-height:460px;" >
+                <div class="banner-header" style="background-image: url(images/red-light-secrets-1920x463.png);min-height:460px;" >
                     <div class="banner-content">
                     </div>
                 </div>
@@ -45,20 +45,20 @@
                                             <div class="single-product-media">
                                                 <div class="images product-img">
                                                     <a href="#" class="image-feature">
-                                                        <img src="images/heineken-experience-500x590-1.png" alt="img">
+                                                        <img src="images/red-light-secrets-500x590-2.png" alt="img">
                                                     </a>
                                                 </div>
                                                 <div class="product-thumbs">
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-500x590-1.png" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-100x120-2.png" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-100x120-3.png" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-100x120-4.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/red-light-secrets-500x590-1.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/red-light-secrets-500x590-2.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/red-light-secrets-500x590-3.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/red-light-secrets-500x590-4.png" alt=""></a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-sm-7">
                                             <div class="single-product-content">
-                                                <h6 class="product-title">red light secrets</h6>
+                                                <h6 class="product-title">Red Light Secrets</h6>
                                                 <div class="product-price">
                                                     <span class="price">€18.99</span>
                                                     <span class="in-stock"><i class="fa fa-check"></i> Instock</span>
@@ -82,7 +82,7 @@
                                                     </ul>
                                                 </div>
                                                 <div class="product-desc">
-                                                    Discover The beer, part of the magic. Visit the Heineken Experience!
+                                                    Unique chance to peek inside the hidden world of prostitution
                                                 </div>
                                                 <div class="product-list-action">
                                                     <ul>
@@ -126,31 +126,31 @@
                                         <div class="tab-content">
                                             <div role="tabpanel" class="tab-pane " id="description">
                                                 <div class="box-content">
-                                                    <p>Mission:<P>
-                                                    <p>There is something secretive about the taste of the world’s best beers and certainly Heineken pilsner belongs to this group. The brewery was established in Amsterdam in 1864 and today Heineken is a huge multinational company, one of the three largest beer producers in the world. Throughout its history, Heineken remained by and large family company, with Charlene de Carvalho-Heineken as its biggest stockholder and her husband Michel on the company’s board. Heineken rich and successful history has been presented in their old defunct brewery in Amsterdam, with several amusement park attractions added to the exhibit and renamed as Amsterdam Heineken Experience.</p>
+                                                  <span><p>Highlights Red Light Secrets</p></span>
+                                                    <ul>
+                                                    <li>Unique chance to peek inside the hidden world of prostitution</li>
+                                                    <li>Museum is situated in a 17th century monumental canal house</li>
+                                                    <li>Ideally located in the center of Amsterdam and the center of the Red Light District</li>
+                                                    <li>Experience how it feels to ‘sit behind a window’, photos allowed!</li>
+                                                    <li>A hands on approach to learning about the history of prostitution</li>
+                                                    <li>An eye opening glance into the secrets of the famous Red Light District</li>
+                                                    </ul>
+                                                    <p>&nbsp;</p>
+                                                    <p>Step into an intriguing world that remains hidden to many and discover the secrets of Amsterdam's most notorious neighbourhood in Red Light Secrets, museum of Prostitution. Take a look behind the scenes of the oldest profession in the world and experience what it feels like to take a seat behind one of the famous windows. Listen to the secrets of the women themselves, their moving dreams and desires. A short film will introduce you to the other side of the Red Light District, which is more than just the neighbourhood of paid sex. Visit the Red Light Secrets and experience for yourself how thrilling, surprising and exciting a museum can be!</p>
                                                 </div>
                                             </div>
                                             <div role="tabpanel" class="tab-pane active" id="addinformation">
                                                 <div class="box-content">
                                                     <span>Adress & info</span>
                                                     <div class="parameter">
-                                                        <p>Museumplein 6</p>
-                                                        <p>1071 DJ Amsterdam</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>Monday to Thursday from 10:30 till 19:30 </p>
-                                                        <p>(Last entry & ticket sales at 17:30)</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>Friday to Sunday from 10:30 till 21:00 </p>
-                                                        <p>(Last entry & ticket sales at 19:00)</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>July & August</p>
-                                                        <p>Monday to Sunday from 10:30 till 21:00</p>
-                                                        <p>(Last entry & ticket sales at 19:00)</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>Open 365 days a year</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>On 24 and 31 December the Heineken Experience will close at 16:00 </p>
-                                                        <p>(Last entry & ticket sales at 14:30)</p>
+                                                      <p>Opening hours: </p>
+                                                      <p>Daily: 11.00 - 00.00 h.</p>
+                                                      <p>&nbsp;</p>
+                                                      <p>Last admission: </p>
+                                                      <p>1 hour before closing time</p>
+                                                      <p>&nbsp;</p>
+                                                      <p>Location: </p>
+                                                      <p>Oudezijds Achterburgwal 60H, Amsterdam</p>
                                                     </div>
                                                 </div>
                                             </div>

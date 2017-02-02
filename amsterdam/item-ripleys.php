@@ -23,7 +23,7 @@
         <div class="header-banner banner-image">
             <div class="banner-wrap">
                 <div class="banner-overlay-color" style="background-color: rgba(0,0,0,0.4)"></div>
-                <div class="banner-header" style="background-image: url(images/heineken-experience-1920x463.png);min-height:460px;" >
+                <div class="banner-header" style="background-image: url(images/ripleys-1920x463.png);min-height:460px;" >
                     <div class="banner-content">
                     </div>
                 </div>
@@ -45,14 +45,16 @@
                                             <div class="single-product-media">
                                                 <div class="images product-img">
                                                     <a href="#" class="image-feature">
-                                                        <img src="images/heineken-experience-500x590-1.png" alt="img">
+                                                        <img src="images/ripleys-500x590-3.png" alt="img">
                                                     </a>
                                                 </div>
                                                 <div class="product-thumbs">
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-500x590-1.png" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-100x120-2.png" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-100x120-3.png" alt=""></a>
-                                                    <a href="#" class="img-product-thumb"><img src="images/heineken-experience-100x120-4.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/ripleys-500x590-1.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/ripleys-500x590-2.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/ripleys-500x590-3.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/ripleys-500x590-1.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/ripleys-500x590-2.png" alt=""></a>
+                                                    <a href="#" class="img-product-thumb"><img src="images/ripleys-500x590-3.png" alt=""></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -82,7 +84,7 @@
                                                     </ul>
                                                 </div>
                                                 <div class="product-desc">
-                                                    Discover The beer, part of the magic. Visit the Heineken Experience!
+                                                  Believe It or Not!
                                                 </div>
                                                 <div class="product-list-action">
                                                     <ul>
@@ -126,31 +128,18 @@
                                         <div class="tab-content">
                                             <div role="tabpanel" class="tab-pane " id="description">
                                                 <div class="box-content">
-                                                    <p>Mission:<P>
-                                                    <p>There is something secretive about the taste of the world’s best beers and certainly Heineken pilsner belongs to this group. The brewery was established in Amsterdam in 1864 and today Heineken is a huge multinational company, one of the three largest beer producers in the world. Throughout its history, Heineken remained by and large family company, with Charlene de Carvalho-Heineken as its biggest stockholder and her husband Michel on the company’s board. Heineken rich and successful history has been presented in their old defunct brewery in Amsterdam, with several amusement park attractions added to the exhibit and renamed as Amsterdam Heineken Experience.</p>
+                                                    <p>De enige plek in Amsterdam waar je echte gekrompen mensenhoofden, het kaakbot van een megalodon, autokunstwerken van bijna 7 meter groot, en nog veel meer zult vinden!</p>
                                                 </div>
                                             </div>
                                             <div role="tabpanel" class="tab-pane active" id="addinformation">
                                                 <div class="box-content">
                                                     <span>Adress & info</span>
                                                     <div class="parameter">
-                                                        <p>Museumplein 6</p>
-                                                        <p>1071 DJ Amsterdam</p>
+                                                        <p>Dam 21, </p>
+                                                        <p>1012 JS Amsterdam, Netherlands </p>
                                                         <p>&nbsp;</p>
-                                                        <p>Monday to Thursday from 10:30 till 19:30 </p>
-                                                        <p>(Last entry & ticket sales at 17:30)</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>Friday to Sunday from 10:30 till 21:00 </p>
-                                                        <p>(Last entry & ticket sales at 19:00)</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>July & August</p>
-                                                        <p>Monday to Sunday from 10:30 till 21:00</p>
-                                                        <p>(Last entry & ticket sales at 19:00)</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>Open 365 days a year</p>
-                                                        <p>&nbsp;</p>
-                                                        <p>On 24 and 31 December the Heineken Experience will close at 16:00 </p>
-                                                        <p>(Last entry & ticket sales at 14:30)</p>
+                                                        <p>Everyday from: </p>
+                                                        <p>10:00 - 20:30</p>
                                                     </div>
                                                 </div>
                                             </div>
